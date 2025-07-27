@@ -8,7 +8,7 @@ Môn này chỉ có 1 giảng viên dạy, thầy [Nguyễn Tài Vượng][link]
 
 - Rồi giải quyết được lí do học môn này, giờ đến giảng viên, thầy Vượng là một nhân vật khá gây tranh cãi, 1 mặt anh là người dạy nhiệt huyết, tư duy, thực sự phải nói kiến thức anh truyền tải khá là đáng 'đồng tiền', nhưng mặt còn lại của anh... Chính là khi nghịch lí trong các sinh viên CS dâng trào, 'filler course', đâm ra ghen ghét anh Vượng, nghiêm túc thì không thầy cô nào thích sinh viên đến chơi và làm việc riêng ko nghe giảng, đặc biệt khi đã bỏ công sức giảng kĩ lưỡng, nên anh khá khắt khe trong việc điểm danh, kỉ luật trong chính lớp học, câu nói đáng nhớ nhất của anh:
   
-  > Không học thì sao không tìm 1 cái ngành nào mà chỉ đóng tiền có điểm ấy.
+  > "Không học thì sao không tìm 1 cái ngành nào mà chỉ đóng tiền có điểm ấy."
 
 - Luyên thuyên 1 hồi vậy, giờ đến câu hỏi quan trọng nhất, vậy không học thì thi như nào? À đến thi thực ra anh không trông chặt vì biết cái bọn này mà chặt thì làm gì có kiến thức mà thi? Vậy nên anh thả cho dùng phone, thậm chí 2 ngày thi xa nhau của 2 lớp còn không đổi đề, tóm lại chép hết sức đi, lấy tạm A sau còn gây dựng nền kinh tế. 💸
 
