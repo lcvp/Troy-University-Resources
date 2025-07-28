@@ -10,8 +10,8 @@ Môn được dạy bởi: thầy [Đỗ Kiên Cường](https://cite.ueb.edu.vn
 
 - Tuy vậy, trên góc nhìn của 1 thợ săn điểm A thì chỉ có:
   
-  CHÉP ĐI!!
+  CHÉP ĐI!!!
   
-  CHÉP ĐI!!
+  CHÉP ĐI!!!
   
-  CHÉP ĐI!!
+  CHÉP ĐI!!!
