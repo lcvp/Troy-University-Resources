@@ -1,6 +1,4 @@
-> ***Khát khao biết được sự thật chính là thứ đã đẩy con người khỏi vườn địa đàng.***
-
----
+> ## ***Khát khao biết được sự thật chính là thứ đã đẩy con người khỏi vườn địa đàng.***
 
 ## Cái Tát Của Thực Tế
 
