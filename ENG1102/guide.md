@@ -8,4 +8,10 @@ Xin chào! Nếu bạn đang đọc cái này có lẽ bạn đã qua được E
 
 - Tại sao ở trên nói E2 như 1 sự cứu cánh cho E1? Vì E2 được tự đăng kí môn nên sẽ được chọn giảng viên, còn E1 là do cô KA đăng kí nên sẽ phải học theo chỉ định, vì thế dễ rơi vào lựa chọn đen đủi (1), vì thế nên khi đăng kí học E2 phải luôn nhớ đăng kí option 2 dù có chết không được đăng kí 'nhầm' vào (1)!!! Vào được (2) thì B đổ lên là chuyện khá đơn giản! 💯💯💯
 
+## Đầu mối Turnitin
+
+- Nơi mua acc Turnitin - Zalo (để share chung cho nhiều đứa, vô hạn lượt check): 0888630224
+
+- Check bài lẻ (acc ở đây thì đắt hơn nhưng check lẻ thì rẻ hơn): [Facebook](https://www.facebook.com/taikhoanton)
+
 [link]: https://www.is.vnu.edu.vn/ths-tran-thi-lan-huong/
