@@ -12,4 +12,4 @@
 
 - Nhưng mà theo tôi môn này cũng dễ nên không cần đắn đo cho lắm, học thầy Toàn vui hơn nhiều.
 
-- Thi GK và CK là open-book, mang gì cũng được trừ điện thoại. 🤣
+- Thi GK và CK là open-book, mang gì cũng được trừ phone. 🤣
