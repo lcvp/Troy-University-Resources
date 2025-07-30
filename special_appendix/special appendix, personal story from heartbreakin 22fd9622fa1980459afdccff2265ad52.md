@@ -178,9 +178,12 @@ Trong khoảng thời gian xui xẻo nhất, có lẽ, tôi đã tìm thấy may
 ![image.png](image%201.png)
 
 > i stepped off the stage with nothing left
-all the lights were fucking in my head
-but here i am, singing songs again
-why why why, why why why????
+>
+> all the lights were fucking in my head
+>
+> but here i am, singing songs again
+>
+> why why why, why why why????
 > 
 
 Đây là cái chương gần cuối của bản tự thuật này của tôi, chuẩn bị khép lại một hành trình rất dài và buồn nhiều hơn là vui, mệt mỏi và rã rời. Như các bạn thấy thì đây chính là ảnh bìa của album “Shawn”, cái album đánh đấu việc Shawn trở lại con đường âm nhạc sau 2 năm chia tay với thanh mai trúc mã của mình. Trong suốt 2 năm, anh đấu tranh với trầm cảm và khủng hoảng danh tính của bản thân. Toàn bộ tour diễn “Wonder” bị hủy khiến anh lao đao và cảm thấy có lỗi với người hâm mộ, rồi còn chuyện tình ái chóng vánh,… Nhưng có lẽ, vượt lên trên những khó khăn, Shawn chọn cách nhìn thẳng vào sự thật, những gì anh thực sự muốn theo đuổi và tìm kiếm lại niềm vui khi làm nhạc và tạo ra những giai điệu mà bản thân cho là “tuyệt tác”. Tất cả các bài hát, mặc dù ở album chính thức lại có độ dài rất ngắn, nhưng khi được nghe live trở nên có cảm xúc hơn rất nhiều. Cái album này đánh dấu việc tôi tìm với chính mình, cho bản thân thời gian để hiểu tất cả những gì đã xảy ra, gói ghém lại cảm xúc, giải quyết những vấn đề của hiện tại và tìm đến tương lai. Tôi nghĩ đây là một quãng nghỉ hợp lý, một bước nhỏ âm thầm nhưng thay đổi khá nhiều suy nghĩ của tôi, giống như việc tôi trả lời cho câu hỏi đầu tiên ấy: “**tôi là ai và ý nghĩa của tôi là gì???**”. Giống như một người đã không còn nhiều năng lượng, nhưng mà biết chỉ còn cách đó vài bước và anh ấy cần một quãng nghỉ để nhìn lại những gì đã xảy ra.
@@ -218,48 +221,89 @@ Tôi nhận ra là đã gần đến kì cuối cùng và tiến độ học cà
 Trong toàn bộ tháng 7, mọi thứ xảy ra không có gì đặc biệt, nếu không muốn nói là đang yên vị cho đến tháng 8, mọi thứ bắt đầu đổi chiều. Trước đó, người bạn cùng trọ của tôi đã quyết định dừng việc học, đồng nghĩa với việc tài chính sau này cũng sẽ phải tự lo. Thì, thay vì vội vã như kì III khi ấy, chúng tôi quyết định ngồi lại với nhau và tìm kiếm trọ mới. Tôi ban đầu cũng rất sợ hãi và gấp gáp khi đúng giữa kì học lại chuyển đi, cùng với hàng đống đồ tồn đọng ở cái căn trọ ghi dấu cả sinh tồn ấy. Nhưng mà, cái gì đến cũng phải đến, tôi phải chấp nhận việc ấy. Đã hai năm chúng tôi ở cùng nhau, dù thực sự chúng tôi không vui vẻ và tôi cũng rất xấu hổ khi không thể bảo vệ bạn mình, nhưng tôi biết ơn vì nếu không có bạn ấy thì tôi có lẽ cũng đã không dám nhìn thẳng vào sự thật và đối diện với nó. Ít ra thì, thời điểm ấy cũng đang hồi kết cho toàn bộ quá trình học đại học của tôi nên là nó vẫn là thời điểm vàng, vì nếu như không nghiêm túc, cái giá phải trả là lớn cho cả hai và có khi, cả hai nghĩ về nhau như kẻ thù. Dù rất buồn và lo lắng, nhưng tôi đồng ý, vì nó cũng là vì tôi và tôi cũng nên tự giác trong cuộc sống của mình và đến lúc phải tập một mình thôi. 8/8 là bắt đầu, bài hát “Why Why Why” xướng lên:
 
 > opened up my journal to a page
-everything that hurts me's still the same
-feels like there's nothin' new for me to say
-why, why, why? why, why, why?
 > 
+> everything that hurts me's still the same
+> 
+>feels like there's nothin' new for me to say
+> 
+>why, why, why? why, why, why?
+>
+> ------ 
 > 
 > sweatin' through the sheets, shakin' in bed
+> 
 > visions of her naked in my head
+> 
 > but i went off and chose myself instead
+> 
 > why, why, why? ease my mind
+>
+> -----
 > 
 > i don't know why, i (hey)
+> 
 > i don't know, i don't know why
+> 
 > why, why, why?
+>
+> -----
 > 
 > i stepped off the stage with nothin' left
+> 
 > all the lights were fuckin' with my head
+> 
 > but here i am, singin' songs again
+> 
 > why, why, why? ease my mind
+>
+> -----
 > 
 > i don't know why, i (hey)
+> 
 > i don't know, i don't know why
-> why, why, why?
+> 
 > why, why, why?
 > 
+> why, why, why?
+>
+> -----
+> 
 > feels like everything goes 'round and 'round
+> 
 > and 'round, and 'round, and 'round it goes
+>
 > feels like everything goes 'round and 'round
+> 
 > and 'round, and 'round, and 'round, and
-> 
+>
+> -----
+>  
 > i thought i was about to be a father
+> 
 > shook me to the core, i'm still a kid (whoo)
+> 
 > sometimes i still cry out for my mother
+> 
 > why, why, why? why, why, why?
-> 
+>
+> -----
+>  
 > i don't know why, i
+> 
 > i don't know, i don't know why
-> why, why, why?
+> 
 > why, why, why?
 > 
+> why, why, why?
+>
+> -----
+> 
 > feels like everything goes 'round and 'round
+> 
 > and 'round, and 'round, and 'round it goes (yeah)
+> 
 > feels like everything goes 'round and 'round
+> 
 > and 'round, and 'round, and 'round it goes
 > 
 
