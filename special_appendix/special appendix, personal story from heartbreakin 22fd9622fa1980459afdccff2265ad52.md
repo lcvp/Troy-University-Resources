@@ -144,9 +144,10 @@ Kết thúc kì 5, tôi cũng cảm thấy may mắn khi có thành tích, cũng
 
 ![image.png](image.png)
 
-> không phải lương tâm của cậu mà chính là lòng tham và cái tôi của cậu giết chết chính bản thân cậu…
+> "không phải lương tâm của cậu mà chính là lòng tham và cái tôi của cậu giết chết chính bản thân cậu…"
+>
+> Kim Sabu - “Người thầy y đức” 
 
-Kim Sabu - “Người thầy y đức”
 > 
 
 Nếu bạn đang muốn học ngành y thì bộ phim này là một trong số những bộ phim nổi tiếng được chiếu ở SBS với tỉ lệ rating ở top đầu, đặc biệt là tập cuối và được nhiều coi là phải xem. Với tôi ấy, thời điểm bộ phim Hàn bắt đầu thay đổi từ hướng chỉ có ngôn tình sang phong cách điện ảnh hơn một chút, có lẽ là ở thời điểm ấy. Những bộ phim nói về các vấn đề xã hội nhiều hơn, đặc biệt là vấn đề y tế và các biên kịch thấy đó là một không gian đủ lớn để họ chắp bút nên những kịch bản mà xem xong, người ta luôn cảm thán. Thì với bộ phim này, tôi khá thích cái cách bộ phim lột tả trần trụi những vấn đề trong ngành y tế, đặc biệt là vấn đề đạo đức. Cuộc chiến giữa y đức và tham vọng cá nhân được đẩy lên cao trào khi các nhân vật bị thả vào trong những tình huống mà chỉ có thể thực hiện một trong hai, hoặc là chạy theo danh vọng và đánh mất y đức, hoặc là mất đi chút cơ hội thăng tiến. Nói chung là đáng xem và phải xem, đặc biệt là với những người học ngành y hoặc có làm trong ngành y.
