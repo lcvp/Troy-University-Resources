@@ -13,6 +13,8 @@
 [![Static Badge](https://img.shields.io/badge/Hall%20of%20Memories-black?style=for-the-badge&logo=markdown&color=%23FF9AA2)][hall-link]
 &nbsp;&nbsp;
 [![Static Badge](https://img.shields.io/badge/T%C3%ADnh%20GPA%20(macOS)-black?style=for-the-badge&logo=apple&logoColor=white&color=%2394283a)][linkGPA_m]
+<br><br>
+[![special_appendix_badge]][special_appendix_link]
 
 </div>
 
@@ -190,3 +192,7 @@
 [linkGPA_W]: https://github.com/Bronstein0x113c1c3/Troy-University-Resources/releases/latest/download/TroyCalcGPA_W.exe
 
 [linkGPA_m]: https://github.com/Bronstein0x113c1c3/Troy-University-Resources/releases/latest/download/TroyCalcGPA_m.zip
+
+[special_appendix_badge]: https://img.shields.io/badge/special%20appendix-black?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIGZpbGw9IiMwMDAwMDAiIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgDQoJIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDQ3NS41MjggNDc1LjUyOCINCgkgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8Zz4NCgk8Zz4NCgkJPHBhdGggZD0iTTIzNy4zNzYsNDM2LjI0NWwwLjc3NCwwLjk3NmMyMTAuOTQtODUuMTU0LDI5Mi4yMjEtMjgyLjU1MywxOTkuMzMxLTM2Ny43MDYNCgkJCWMtOTIuODk5LTg1LjE1NC0xOTkuMzMxLDMwLjk1My0xOTkuMzMxLDMwLjk1M2gtMC43NzRjMCwwLTEwNi40NC0xMTYuMTA3LTE5OS4zMzEtMzAuOTUzDQoJCQlDLTU0Ljg0NCwxNTQuNjU4LDI2LjQzNywzNTEuMDkyLDIzNy4zNzYsNDM2LjI0NXoiLz4NCgk8L2c+DQo8L2c+DQo8L3N2Zz4=&color=%23a61107
+
+[special_appendix_link]: ./special_appendix/special%20appendix%2C%20personal%20story%20from%20heartbreakin%2022fd9622fa1980459afdccff2265ad52.md
