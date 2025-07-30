@@ -83,7 +83,7 @@ Kết thúc kì 5, tôi cũng cảm thấy may mắn khi có thành tích, cũng
 
 > one, two, three
 > 
-> 
+> -----
 > got a lot of talk in my brain right now
 > 
 > sorry, gotta do it, gotta let you down
@@ -92,7 +92,8 @@ Kết thúc kì 5, tôi cũng cảm thấy may mắn khi có thành tích, cũng
 > 
 > sorry, gotta do it, gotta let you down
 >
-> 
+> -----
+>
 > 'cause i don't really know who i am right now
 > 
 > no, i don't really know who i am right now
@@ -109,7 +110,7 @@ Kết thúc kì 5, tôi cũng cảm thấy may mắn khi có thành tích, cũng
 > 
 > no, i don't really know who i am right now
 >
-> 
+> -----
 >
 > and it broke my heart when i cancelled tour
 > 
@@ -122,7 +123,8 @@ Kết thúc kì 5, tôi cũng cảm thấy may mắn khi có thành tích, cũng
 > 'cause i don't really know who i am right now
 > 
 > no, i don't understand who i am right now
-> 
+>
+> -----
 >
 > so i bought a new place in a warmer town
 > 
