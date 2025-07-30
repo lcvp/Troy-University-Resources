@@ -1,4 +1,6 @@
-> # ***Khát khao biết được sự thật chính là thứ đã đẩy con người khỏi vườn địa đàng.***
+# Tổng hợp một số thông tin về ngành
+
+> Khát khao biết được sự thật chính là thứ đã đẩy con người khỏi vườn địa đàng.
 
 ## Cái Tát Của Thực Tế
 
@@ -16,7 +18,12 @@
 
 - Suy nghĩ về các môn Toán của Troy (**không đam mê có thể bỏ qua**). Đến thời điểm hiện tại thì tôi đã hoàn thành hầu hết cơ bản các môn Toán của Troy, Toán ở đây theo nghĩa mà tôi **tự định nghĩa**, theo tôi các môn sau cũng là môn Toán, không mang mã MTH: CS-2220 (Phương pháp Tính), CS-3372 (Lý thuyết Tính toán). Tôi băn khoăn mãi không biết vấn đề nào là khó nhất của Toán ở Troy? Mãi đến gần đây khi tiếp cận *đề thi môn Toán thi tốt nghiệp THPT 2025*, tôi mới nhận ra, có lẽ vấn đề khó nhất với anh em học try hard Toán có lẽ là Counting Method hay bài toán đếm, là một phần nhỏ của Toán Rời Rạc và XSTK, theo tôi đây là bài toán khó, vì một khi đếm sai là các công thức sử dụng kết quả trực tiếp từ việc đếm đó chắc chắn sai, còn các vấn đề còn lại thực ra cũng không khó lắm, chỉ cần tập trung xíu là học ổn. Nên hãy chú ý về bài toán đếm để tối ưu điểm A nhé!!       
 
-## Tồn Tại Trong Lặng Lẽ, Thay Đổi Trong Im Lìm
+## Chí Phèo và làng ... Bách Khoa??
+
+> "Hắn vừa đi vừa chửi. Bao giờ cũng thế, cứ rượu xong là hắn chửi. Bắt đầu hắn chửi trời. Có hề gì ? Trời có của riêng nhà nào ? Rồi hắn chửi đời. Thế cũng chẳng sao : đời là tất cả nhưng chẳng là ai. Tức mình, hắn chửi ngay tất cả làng Vũ Đại. Nhưng cả làng Vũ Đại ai cũng nhủ : “Chắc nó trừ mình ra !”. Không ai lên tiếng cả."  
+> — [*Nam Cao, Chí Phèo*](./the%20reason%2C%20for%20you%20-%20me%20-%20us%2C%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/Ngu%20Van%2011%20Tap%201.pdf)
+
+Chắc hẳn chúng ta không còn xa lạ với tác phẩm Chí Phèo của nhà văn Nam Cao, được in trong sách giáo khoa Ngữ văn lớp 11, tập một, thuộc Chương trình giáo dục phổ thông năm 2006. Có thể nói rằng bi kịch bị ruồng bỏ của Chí Phèo là bi kịch tinh tế của một con người sinh ra làm người nhưng không được làm người. Tiếng chửi là tiếng kêu thương của sự tuyệt vọng, là chứng tích đau đớn cho một số phận bị xã hội đào thải, cô lập, không nơi nương tựa (SIE -> SoICT -> Phòng Đào Tạo -> FaMI).
 
 - Về vấn đề điểm đầu vào của Troy: có lẽ do hệ thống các ngành quá đa dạng và học phí thấp hơn rất nhiều của BK mà Troy có phần lạc lõng trong danh sách điểm chuẩn các ngành hằng năm (xếp cuối nơi mọi người ít quan tâm), kèm theo đó ở giai đoạn trước điều kiện IELTS cũng là một điều kiện khá khó khăn đối với học sinh cấp 3, ít người dám vào. Những năm gần đây do bùng nổ xét tuyển chứng chỉ ngoại ngữ quốc tế mà càng nhiều học sinh có chứng chỉ IELTS hơn thành ra cũng đông người chọn ngành Troy hơn, tuy vậy, việc điểm đã thấp từ trước do ít người vào đã tạo thành một **tiền lệ xấu** nên sau này điểm cứ thấp theo dòng thời gian, nhiều SV Troy vào Troy vì đây là 'lốp dự phòng', một điều đáng buồn!! Một lí do nữa đáng để nói tới là việc Troy không được giới chóp bu tại BK đẩy mạnh quảng bá nên cũng ít người biết về sự tồn tại của Troy BK, mà biết thì chưa chắc đã tin với quả điểm chuẩn vậy, *một vòng luẩn quẩn*.
   
