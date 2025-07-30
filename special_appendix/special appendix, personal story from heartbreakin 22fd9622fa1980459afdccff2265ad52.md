@@ -85,32 +85,50 @@ Kết thúc kì 5, tôi cũng cảm thấy may mắn khi có thành tích, cũng
 > 
 > 
 > got a lot of talk in my brain right now
-> sorry, gotta do it, gotta let you down
-> everything's hard to explain out loud
+> 
 > sorry, gotta do it, gotta let you down
 > 
+> everything's hard to explain out loud
+> 
+> sorry, gotta do it, gotta let you down
+>
+> 
 > 'cause i don't really know who i am right now
+> 
 > no, i don't really know who i am right now
 > 
 > i feel pressure from the people that i love and it hurts
+> 
 > but i know i gotta do it, gotta put me first
+> 
 > i'm losing myself tryna make you proud
+> 
 > sorry, gotta do it, gotta let you down
 > 
 > 'cause i don't really know who i am right now
-> no, i don't really know who i am right now
 > 
+> no, i don't really know who i am right now
+>
+> 
+>
 > and it broke my heart when i cancelled tour
+> 
 > hurt my soul and my head going back and forth (ooh)
+> 
 > and i don't know how i'm gonna face you now
+> 
 > sorry, gotta do it, gotta let you down (ooh)
 > 
 > 'cause i don't really know who i am right now
+> 
 > no, i don't understand who i am right now
 > 
+>
 > so i bought a new place in a warmer town
+> 
 > no, i don't really know who i am right now
 > 
+>
 > Shawn Mendes - “Who I Am” - Track 1 from “Shawn”
 > 
 
