@@ -94,11 +94,11 @@ Kết thúc kì 5, tôi cũng cảm thấy may mắn khi có thành tích, cũng
 > 
 > sorry, gotta do it, gotta let you down
 >
-> -----
->
 > 'cause i don't really know who i am right now
 > 
 > no, i don't really know who i am right now
+>
+> -----
 > 
 > i feel pressure from the people that i love and it hurts
 > 
