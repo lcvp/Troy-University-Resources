@@ -383,7 +383,6 @@ Với tôi thì, lớp 8, khi tôi qua đại học và trở lại với cuộc
 
 Dù sao thì, tôi chấp nhận, đi qua khó khăn và làm ra những điều tuyệt vời, như lúc tôi của tuổi 13 ấy. <3.
 
-Để vượt qua nỗi sợ về tâm lý, ngoài việc trung thực ra, tôi cũng muốn bản thân mình thử nghiệm những ý tưởng mà tôi chưa một lần nghiêm túc xem xét. Một trong số các dự án tôi làm trong khoảng thời gian sinh nhật là dự án về phần mềm nghe nhạc bằng Rust, với phiên bản được cải tiến về hiệu năng và lần đầu sử dụng QUIC thay cho UDP thuần. Để nói một chút thì dự án ấy, giống như cái album “S”
 
 ### when i’m gone.
 
