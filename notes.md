@@ -29,6 +29,18 @@ Chắc hẳn chúng ta không còn xa lạ với tác phẩm Chí Phèo của nh
   
   - Năm 2024, có lẽ là một năm bước ngoặt, mà chả biết có lợi cho ngành hay không khi có hai thứ đã thay đổi: 1 là việc tăng 50% chỉ tiêu tuyển sinh (80 -> 120), 2 là việc 'hardcode' điều kiện chứng chỉ ngoại ngữ vào trong đề án tuyển sinh đối với ngành Troy. Việc thứ 2 phải nói là một điều tốt vì giờ khi vào tất cả đã đạt điều kiện chứng chỉ, nên sẽ không có kiểu lớp nợ chứng chỉ (lớp B) và lớp đã có (lớp A) nữa, mọi người được đồng bộ, một số môn lớp A phải đợi lớp B sang đầu năm 2 thì mới học cùng thì giờ đây có thể cùng nhau học từ năm 1 => đồng bộ, thông suốt, liền mạch. Tuy vậy một vấn đề thì thường có hai mặt đối lập, thay đổi thứ 2 là một mặt tốt, còn mặt đầu tiên thì thực sự không có lợi cho ngành lắm vì ngành đang ít sinh viên, do chạy theo nhu cầu xã hội về ngành IT mà tăng chỉ tiêu ngành khiến cho điểm chuẩn lại càng kéo xuống (**21đ** 2024) khiến cho năm này trở thành một năm thảm về mặt điểm chuẩn ngành, đối cứng của thay đổi tốt đẹp...
 
+- Sau Đại hội Đảng bộ Trường Công nghệ Thông tin và Truyền thông, thầy [Tạ Hải Tùng](https://soict.hust.edu.vn/pgs-ts-ta-hai-tung.html) có đăng [status](https://www.facebook.com/share/p/1LiP7Rbcxg/) nói về kết quả nhiệm kỳ, trong những con số ấy có một thông tin mà tôi thấy hết sức là thú vị: 
+  
+  <p align="center">
+    <img src="./the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image8.png" alt="image8.png">
+  </p>
+  
+  Và chúng ta cũng nằm trong số 'được tái cấu trúc và (sau đó) dừng tuyển sinh' đấy, cũng may là 'được FaMI đỡ' không thì giờ mọi người đã không ở đây để đọc cái này :)))
+  
+  <p align="center">
+    <img src="./the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image9.jpg" alt="image9.jpg">
+  </p>
+
 ## Xếp Hạng Bằng Đại Học
 
 - Cấp độ của bằng ở Troy, ở Troy không chia bằng kiểu khá, giỏi mà chia kiểu:
