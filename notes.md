@@ -41,6 +41,24 @@ Chắc hẳn chúng ta không còn xa lạ với tác phẩm Chí Phèo của nh
     <img src="./the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image9.jpg" alt="image9.jpg">
   </p>
 
+## *All that glitters is not gold.*
+
+Nói nhiều quá, thế ưu điểm ngành mình là gì? ... Là:
+
+<p align="center">
+  <img src="./the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image10.jpg" alt="image10.jpg" style="width:80%; height:80%;">
+</p>
+
+<p align="center">
+  <img src="./the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image11.jpg" alt="image11.jpg" style="width:80%; height:80%;">
+</p>
+
+Tóm lại:
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/UT8rnTFrOIwAAAAd/batman-rich.gif" alt="batman-rich">
+</p>
+
 ## Xếp Hạng Bằng Đại Học
 
 - Cấp độ của bằng ở Troy, ở Troy không chia bằng kiểu khá, giỏi mà chia kiểu:
