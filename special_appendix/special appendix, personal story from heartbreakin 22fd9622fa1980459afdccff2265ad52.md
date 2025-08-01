@@ -43,7 +43,8 @@ a fresh start, huh????
 
 ---
 
-### the second semester: something to come….
+<details>
+  <summary>the second semester: something to come….</summary>
 
 Khoảng thời gian này nằm ở cuối kì I và tiếp diễn tới kì thứ VI, đó là thời điểm hết dịch và tôi chuyển lên thành phố để học tập. Tuy nhiên, trước đó, tôi có một giai đoạn mà khiến tôi dần không vui về sau, đó là chuyện tôi trượt bằng lái xe tới 3 lần. Lần đầu trượt bằng lái cũng là lúc tôi phải nghỉ buổi học Toán đầu tiên, vốn là việc tôi rất kiêng kị vì nếu mất một buổi điểm danh thì kết quả học tập của tôi cũng sẽ bị ảnh hưởng, và đúng là như thế. Cái con số 89 đầy ám ảnh khiến tôi không thể nào học một cách bình thường như tôi muốn. Cả nhà căng thẳng, cãi nhau và đó cũng là lúc tôi cảm nhận sự căng thẳng ngay trong chính gia đình của mình. Cái giá của việc trượt một cái gì đó khiến tôi tỉnh ngộ và phải chuẩn bị nước đi sau này, dĩ nhiên là sau này, khi việc trượt một cái gì đó không khiến tôi bị ám ảnh như trước, thì có lẽ, tôi có thể nhìn nhận mọi thứ nhẹ nhàng hơn như bây giờ, cái lúc tôi đang viết ấy. Tuy nhiên, tại cái thời điểm bắt đầu ấy, mọi thứ rất căng thẳng với tôi, ngay cả việc học cũng không thể đàng hoàng vì trong đầu tôi vẫn oang oảng cái cằn nhằn của gia đình chuyện bằng lái. Mầm mống của chuỗi ngày tệ hại xuất hiện ngay trong đầu tôi như vậy đấy…
 
@@ -57,7 +58,10 @@ Và, chuyện gia đình, vốn là một đề tài nhạy cảm trong suy ngh�
 
 Để nói thì tôi quá non nớt để nhìn nhận ra sự thật rằng, có lẽ lên đại học không vui như tôi vẫn nghĩ, cũng như việc tôi không nhìn ra rằng có những vấn đề không thể cứ lên đại học hay là để ngâm nó đi thì nó sẽ qua. Có một sự thật mà sau này tôi mới biết là…. những vấn đề ấy vẫn còn đó, nó vẫn là một phần âm ỉ mà tôi chưa bao giờ một lần nhìn lại và đối diện đàng hoàng, thậm chí, chính những vấn đề gia đình đã cướp đi động lực và niềm tin học tập mà tôi cố gắng tạo dựng với bản thân. Mọi sự trồi sụt giờ mới chỉ là bắt đầu…
 
-### the third semester: broken…
+</details>
+
+<details>
+  <summary>the third semester: broken…</summary>
 
 Kì hè của tôi bắt đầu vào cuối tháng 6, đầu tháng 7, trong cái nóng bức của mùa hạ. Cái mâu thuẫn giữa tôi và người khác trong trọ cũng dần tăng lên. Những bất đồng trong phương thức sinh hoạt, sự phụ thuộc cũng như tình trạng trọ sau đó khiến tôi phải lên trước kế hoạch di tản. Tiền trọ lên tới 2 triệu cho một căn phòng tồi tàn, đường đi chật hẹp, ô nhiễm và bẩn thỉu đến mức không thể dọn khiến tôi không thể chịu đựng thêm. Kế hoạch chuyển trọ đấy bao gồm cả việc thi IELTS mà tôi đã lên từ tháng 6/2022, vốn là mở đầu cho toàn bộ kế hoạch về sau. Cái lý do rõ nhất cho việc thi IELTS là tôi muốn đúng thời điểm học, vì nếu nộp muộn sau kì IV thì sẽ bị đội thời gian lên do bảo lưu. Tôi đánh giá là khoảng thời gian tôi học IELTS cũng rất vội và gần như không chuẩn bị tâm lý tốt, mặc dù kết quả thi cũng không tệ - 6.5 cho 2 tháng học và 2 tuần ôn gấp. Dĩ nhiên, chuyện gì tới cũng phải tới….
 
@@ -69,7 +73,10 @@ Một năm xui xẻo, tan nát và vỡ mộng tới trong chính trái tim tôi
 
 Vô vị, xui xẻo, tan vỡ, 2022 của tôi đi như vậy đó.
 
-### from fourth to fifth: ambition from a broken heart…
+</details>
+
+<details>
+  <summary>from fourth to fifth: ambition from a broken heart…</summary>
 
 Kể từ lúc tôi bị hỏng máy tính, từ kì 4 trở đi, gần như tôi không học lập trình gì mấy. Gần như, những tham vọng cá nhân và sự hắc hóa của tôi biểu hiện rất rõ trong giai đoạn này. Ở giai đoạn này, tôi vẫn cố gắng lết thân mình sống, dù rất yêu thương mọi người, nhưng đầu tôi chất chứa nhiều tham vọng và bị cuốn vào nó lúc nào chẳng hay. Vị ngọt của điểm A kinh khủng đến mức mà sau giai đoạn này, khi gặp phải kì 8 với thầy Kumar, tôi đánh mất luôn cái tâm lý của mình và phải mất một khoảng thời gian dài nữa mới tìm thấy động lực thực sự của việc học. Đúng, tôi may mắn khi có thành tích, nhưng xét đến cùng, nó là lời nguyền mà chính tôi đã hứa rằng sẽ phá bỏ, và việc thoát ra khỏi nó cũng đau đớn và mệt mỏi chẳng kém gì việc cố gắng tìm kiếm cái thành tích cá nhân. Đây là đoạn mở đầu, khi trái tim tan vỡ và cuộc sống khắc nghiệt đủ giết chết tinh thần của một người như thế nào.
 
@@ -80,6 +87,8 @@ Trước kì V, tôi nhận được kết quả thi các môn, tôi được 2 
 Kết thúc kì 5, tôi cũng cảm thấy may mắn khi có thành tích, cũng như việc tôi và bạn tôi chuyển trọ gần trường, tôi cũng quen được với môi trường học tập khắc nghiệt. Tuy nhiên, mọi niềm vui cũng ngắn, kì 6 lại tới và đây có thể nói là kì học nặng và hao tổn sức lực nhất, kì 8 và 10 chỉ xếp sau. Thời điểm kì V, khi tham vọng đang thực hiện và tôi nghĩ là nó ổn, tôi hoàn toàn chưa cảm nhận được sự bất ổn, hoàn toàn không, chỉ vì điểm A quá dễ dàng và tôi trở nên tham lam. Ngoài mặt, tôi vẫn thân thiện, nhưng bên trong của tôi đã nhuốm một chút màu của tham vọng điểm số mà tôi đã hứa sẽ chống lại. Dấu hiệu tự mãn, đố kị trong lòng tôi nó âm thầm lắm, cái cảm giác không làm được cái gì mà người ta lại làm được khiến tôi lại tự tạo thêm những áp lực không hay cho mình, bây giờ, tôi cũng đối diện với cảm xúc như vậy nhưng khác với bây giờ, thời điểm trước đó thì tôi lại không coi trọng suy nghĩ của bản thân nhiều mà dồn hết cho thành tích và thứ bên ngoài nhiều hơn là bên trong. Tôi cứ học điên cuồng mà nhiều khi không nhận ra là bản thân cũng cần được nghỉ ngơi và nhìn lại những gì mình đi qua. Well, có lẽ, chính cái tôi quá lớn, chủ quan và tự mãn dần giết tôi trong âm thầm và tôi đã phải trả giá ở kì hè sau đó - kì VI. Hơn hết, ít nhất thì, tôi không quá ác để trở thành người xấu, chỉ là tôi đang cố gắng trải nghiệm để hiểu cái lời thề đầu tiên mình từng nói và lý do tại sao phải cố gắng. Có lẽ, là tôi phải trải qua cái tham vọng của cá nhân, sự đố kị mà bản thân giăng ra và đạt chút điểm số rồi coi đó là vinh quang, khi tôi tự đi lên mây xanh và đến một mức nào đó, rồi sớm thôi, tôi lại vỡ mộng và chẳng biết sẽ vỡ lúc nào. Tóm lại là, tôi vui vì tôi có điểm số tốt, chứ không phải là tôi có lương tâm. Tôi thỏa mãn được cái nỗi sợ của mình hơn là dám đối diện với nó và tôi đã chìm trong tự mãn như thế ấy.
 
 Đó là những gì xảy ra trước kì VI - khi mà tôi dần trở nên hắc hóa sau nỗi sợ và tìm kiếm chút thành tích chỉ vì cái nỗi sợ full B. Đó là khoảng thời gian mà tôi thấy bản thân mình sinh tồn rất tốt, nhưng cũng chìm dần sâu vào sự tự mãn và cái vùng an toàn mà mình nghĩ là sẽ tồn tại đủ lâu, cho đến khi mọi thứ dần vỡ vụn…
+
+</details>
 
 ## iii. searching for reason why.
 
@@ -142,7 +151,8 @@ Kết thúc kì 5, tôi cũng cảm thấy may mắn khi có thành tích, cũng
 
 ---
 
-### the sixth and seventh semester: burnt out
+<details>
+  <summary>the sixth and seventh semester: burnt out</summary>
 
 ![image.png](image.png)
 
@@ -176,6 +186,8 @@ Kì VII, với tôi thì không có gì đặc biệt lắm, ngoài việc tôi 
 
 Trong khoảng thời gian xui xẻo nhất, có lẽ, tôi đã tìm thấy may mắn và lý do để làm một người lớp trưởng đúng mực. Tôi cảm thấy việc mình theo đuổi một lý tưởng mà mình biết sẽ không bao giờ thành, sẽ khiến tôi chìm trong tổn thương nhiều hơn niềm vui và việc chấp nhận những sự vỡ mộng, mở lòng ấy có khi lại bắt đầu cho những suy nghĩ thực tế hơn ở trong tương lai. Trách nhiệm, nghe thì nặng nề, nhưng trong những tình huống đan xen giữa đạo đức và tham vọng, nó chính là thứ khiến ta tỉnh táo. Người khôn ngoan là người hiểu rằng họ không nên làm gì, và tôi cũng cảm thấy rõ điều ấy. Tôi có một tập thể coi trọng những suy nghĩ của tôi, cho tôi cơ hội để sửa sai và chấp nhận những điều tệ nhất ở tôi, thì không có lý gì tôi phải đánh đổi họ cả.
 
+</details>
+
 ## iv. glimpse of myself and acceptance
 
 ![image.png](image%201.png)
@@ -197,7 +209,8 @@ that’s all, when everything comes to an inevitable ending….
 
 ---
 
-### the eighth semester: the limit of my endurance
+<details>
+  <summary>the eighth semester: the limit of my endurance</summary>
 
 Trong cuối năm 2023, tôi có quyết định là đi thực tập, nói thực tập thì hơi quá, tôi gọi là học việc và ngồi không ở một cái phòng ban nhỏ của một trường cao đẳng nọ: “F** P**” gì đấy. Thực tế, cái khoảng thời gian thực tập ấy kéo dài trong vòng 8 tháng, trùng với thời điểm tôi đang đi nước rút đến những kì cuối cùng, từ kì VII ấy. Trong 8 tháng ấy, về mặt lý thuyết thì tôi quen với công việc, quen với chuyện ngày làm 8 tiếng và cái sự vất vả của nó, nhưng gần như toàn bộ thời gian, tôi giống như ngồi không và cảm thấy chẳng giao tiếp được với mọi người. Và cái việc ngu nhất là tôi mời cái thằng dở nào đó đi làm việc cùng và cái việc nó gây khó dễ chuyện tài chính là một phần đẩy tôi đến quyết định nghỉ sau đó. Nhưng, có lẽ, phải đến kì VIII, cái giới hạn chịu đựng của tôi có lẽ không thể trụ thêm được nữa và tôi biết lúc ấy, tôi cần phải có động thái cứng rắn để bảo vệ mình, hơn là cố theo đuổi một mục tiêu trong vô vọng.
 
@@ -213,7 +226,10 @@ Một ví dụ rõ ràng hơn của quản lý quan liêu mà vượt quá sức
 
 Và…. tôi nghỉ 8 tháng dài vô vọng sau khi có kết quả, tôi dần chuyển hướng bản thân sang cái tư duy mới và niềm tin vào cái thực học của mình. Đó cũng là những gì đã diễn ra ở kì IX, cái kì học đánh dấu bước chuyển trong suy nghĩ của tôi, từ danh vọng cá nhân tới cái sự thực học và niềm tin thực sự vào những điều tích cực.
 
-### the ninth semester: start of an ending, switching dormitory, glimpse of myself, Shawn.
+</details>
+
+<details>
+  <summary>the ninth semester: start of an ending, switching dormitory, glimpse of myself, Shawn.</summary>
 
 ![image.png](image%202.png)
 
@@ -323,7 +339,10 @@ Nói một chút về anh Shawn và bài hát kia ấy, cái giai điệu và l�
 
 anyway, i love myself, from that semester….
 
-### the last semester: preparation for graduation, a new journey.
+</details>
+
+<details>
+  <summary>the last semester: preparation for graduation, a new journey.</summary>
 
 ![16-145.png](16-145.png)
 
@@ -348,6 +367,8 @@ Và cuối cùng, tôi cũng đã nghĩ rất nhiều về việc tôi sẽ rờ
 
 Một kì học cầm chừng của tôi kết thúc với việc tôi qua môn và kịp thu xếp những suy nghĩ ngổn ngang của mình rồi chuẩn bị cho sự trở lại của bản thân sau nhiều năm…
 
+</details>
+
 ## v. healing and revolution.
 
 2025, recently.
@@ -367,7 +388,8 @@ im just a 13-year-old guy….
 
 ---
 
-### some tasteless days.
+<details>
+  <summary>some tasteless days.</summary>
 
 Dĩ nhiên là, cái bắt đầu luôn xuất phát từ những ngày vô vị nhất. Rõ ràng, mặc dù tôi qua môn ở chương trình chính, nhưng cái môn tôi học ở HUST, nghe 3 điểm qua môn có vẻ dễ, nhưng với việc tôi chưa trượt môn học nào, cũng như việc tôi không muốn mình mất quá nhiều thời gian cho những thứ ngoài lề. Những ngày vô vị kéo dài từ đầu năm cho tới sinh nhật của tôi, khi mà tôi chưa thể quen cái lịch học vì cứ thay đổi liên miên. Vì lẽ đó, nguyên 4 tháng đầu năm, tôi gần như không biết việc gì để làm, cũng không thể lên một kế hoạch nhất định. Nguyên khoảng thời gian đấy, tôi ngoài việc chỉ lo những môn trên trường, tôi học cách tĩnh lặng và đối diện với những ngày vô vị như thế. Có những khoảng thời gian khi ở nhà, thời gian cứ trôi đi và tôi cảm nhận rất rõ những điều ấy. Thế nhưng, với sự vô vị, tôi cũng có cách để đối diện. Tôi chọn viết lách, đọc sách, tập thể dục và có khi là ngồi thiền. Thường, tôi vẫn cần thời gian để quen dần nhịp độ và tôi chọn cách kiên nhẫn với một kết quả nào đó, hơn là liên tục sống trong hoảng loạn. Sự trung thực và cởi mở cũng nhiều hơn thông qua việc tôi nói lên những bất an của mình, cũng như tìm kiếm giải pháp cho những suy nghĩ còn hỗn loạn của mình. Nhờ việc trung thực và giải quyết những việc phải làm, tôi dần thoải mái hơn với những việc tôi đang làm và tận hưởng sự dễ chịu mà nhiều năm tôi chưa từng..
 
@@ -375,7 +397,10 @@ Phần này thì tôi viết kĩ trong phần cá nhân nên tôi sẽ không k�
 
 Luôn cần một khoảng lặng cho bản thân trước khi mọi thứ đến…
 
-### meaning of 13, back to original.
+</details>
+ 
+<details>
+  <summary>meaning of 13, back to original.</summary>
 
 Để vượt qua nỗi sợ về tâm lý, ngoài việc trung thực ra, tôi cũng muốn bản thân mình thử nghiệm những ý tưởng mà tôi chưa một lần nghiêm túc xem xét. Một trong số các dự án tôi làm trong khoảng thời gian sinh nhật là dự án về phần mềm nghe nhạc bằng Rust, với phiên bản được cải tiến về hiệu năng và lần đầu sử dụng QUIC thay cho UDP thuần. Để nói một chút thì dự án ấy, giống như cái album “Shawn”, là một thử nghiệm và cố gắng để tôi có thể làm ra những phần mềm với những ý tưởng tôi thích và trung thực trong suy nghĩ của mình. Làm một phần mềm, tôi đối diện nhiều với sự hoài nghi của bản thân rằng không biết tôi có kịp làm xong dự án trong khoảng thời gian ngắn như vậy hay không, và lần đầu, tôi nghiên cứu trở lại, đọc sách và viết ra những dòng code thử nghiệm chương trình đầu tiên. Từ đầu tháng 4 cho đến sinh nhật tôi thì tôi cũng viết ra một chương trình hoàn chỉnh để có thể biểu diễn được khả năng chạy của Rust, dù tôi chưa nghĩ ra phương pháp tối ưu. Dự án được viết tiếp đến tầm đầu tháng 5 khi phiên bản chạy QUIC được hoàn thành phần snippet và mang tính thử nghiệm công nghệ nhiều hơn là thực sự triển khai. Quá trình viết code ấy cho tôi chút niềm vui khi tôi có thể suy nghĩ và làm ra phần mềm mà không phải quan tâm quá nhiều những gì ngoài kia đang xảy ra. Cũng từ đấy, một kế hoạch chính thức bắt đầu: “13”.
 
@@ -383,8 +408,10 @@ Với tôi thì, lớp 8, khi tôi qua đại học và trở lại với cuộc
 
 Dù sao thì, tôi chấp nhận, đi qua khó khăn và làm ra những điều tuyệt vời, như lúc tôi của tuổi 13 ấy. <3.
 
+</details>
 
-### when i’m gone.
+<details>
+  <summary>when i’m gone.</summary>
 
 > người ta không nhớ tên tôi, nhưng người ta sẽ nhớ tới cái lý tưởng mà tôi đang theo đuổi…
 > 
@@ -398,6 +425,8 @@ Tiếp theo là, trên đời này có những thứ không nên quá tin tưở
 Với lớp học và môi trường học trong tương lai, tôi muốn các bạn, dù không nhiều, hãy tạo ra những cuộc cách mạng ngay từ bây giờ. Một chương trình học quan liêu, thì các bạn, đúng, là các bạn, phải có trách nhiệm đoàn kết và bảo vệ lẫn nhau, vì lợi ích cho toàn thể các bạn và tương lai sau này. Thực sự rất khó để yêu cầu phía quản lý thay đổi mọi thứ theo yêu cầu của các bạn, nhưng chúng ta trên hết có những quyền và nghĩa vụ học tập chung, do đó, sự đoàn kết được tạo ra để bảo vệ các bạn khỏi sự tấn công quan liêu từ phía quản lý. Nói về tư duy xã hội chủ nghĩa thì nó có thể sẽ không lọt tai, nhưng tôi muốn các bạn thực sự giúp đỡ lẫn nhau và cùng nhau làm những điều diệu kì, chỉ có các bạn mới có thể làm tốt việc học của mình, không phải là những kẻ bề trên liên tục gây khó dễ cho việc học của bạn rồi nói là vì bạn. Cuộc cách mạng diễn ra khi các bạn tự ý thức được những vấn đề học tập xung quanh và cảm nhận mình không đứng ngoài cuộc, vì lẽ đó, tôi muốn các bạn chia sẻ và trung thực với những vấn đề học tập xung quanh bạn. Mọi người cùng nhau học tập, chia sẻ kiến thức lẫn trải nghiệm và cùng nhau xây dựng một nền giáo dục mới ngay trong lòng cái hệ thống cũ và chỉ chờ một khoảnh khắc thôi, mọi thứ sẽ thay đổi, đó là điều tôi mong ở các bạn.
 
 Dù sao thì, tôi cũng xong đại học và không thể nói gì nhiều cho các bạn, nhưng tôi mong trải nghiệm và tư tưởng của tôi có thể giúp cho các bạn phần nào để tìm tới tương lai. Tôi viết một phần cho tôi, một phần cho gia đình, một phần cho tình yêu, một phần cho tư tưởng, một phần cho kí ức và một phần cho tương lai lẫn hiện tại - thứ mà tôi có thể thay đổi và làm tốt nhất có thể.
+
+</details> 
 
 Đó, đi từ tan vỡ và hối hận, rồi đến chữa lành như vậy đấy…
 
