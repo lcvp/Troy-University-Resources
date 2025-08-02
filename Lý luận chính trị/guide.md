@@ -2,9 +2,11 @@
 
 - Ủa sao lại có folder này? Tưởng Troy mình không học Triết?
   
-  video
+  <p align="center">
+    <video src="https://github.com/user-attachments/assets/981d3277-b32d-4bfa-8d7e-00b9acaedb6a" controls style="max-width:100%; height:auto;"></video>
+  </p>
 
-- Các môn lý luận chính trị (5 môn Triết) ở trường là bắt buộc phải hoàn thành mặc dù các môn đó không tính vào GPA của Troy nhưng mà là điều kiện đủ để bằng Troy được công nhận tại Việt Nam (thực ra là ĐHBKHN thích thế, không học tớ giam bằng). Còn trường hợp chuyển tiếp thì không nói làm gì.
+- Thôi, nói này: các môn lý luận chính trị (5 môn Triết) ở trường là bắt buộc phải hoàn thành mặc dù các môn đó không tính vào GPA của Troy nhưng mà là điều kiện đủ để bằng Troy được công nhận tại Việt Nam (thực ra là ĐHBKHN thích thế, không học tớ giam bằng). Còn trường hợp chuyển tiếp thì không nói làm gì.
 
 ## How to study???
 
