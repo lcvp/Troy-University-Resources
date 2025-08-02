@@ -1,4 +1,18 @@
-- Các môn lý luận chính trị (5 môn Triết) ở trường là bắt buộc phải hoàn thành mặc dù các môn đó không tính vào GPA của Troy nhưng mà là điều kiện đủ để bằng Troy được công nhận tại Việt Nam (thực ra là ĐHBKHN thích thế, không học tớ giam bằng). Còn trường hợp chuyển tiếp thì không nói làm gì.
+## Why???
+
+- Ủa sao lại có folder này? Tưởng Troy mình không học Triết?
+  
+  <p align="center">
+    <video src="https://github.com/user-attachments/assets/981d3277-b32d-4bfa-8d7e-00b9acaedb6a" controls style="max-width:100%; height:auto;"></video>
+  </p>
+
+- [Công bố](https://www.facebook.com/share/p/1EzToj6v5N/):
+
+  <p align="center">
+    <img src="../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image12.png" alt="image12.png">
+  </p>
+
+- Thôi, nói này: các môn lý luận chính trị (5 môn Triết) ở trường là bắt buộc phải hoàn thành mặc dù các môn đó không tính vào GPA của Troy nhưng mà là điều kiện đủ để bằng Troy được công nhận tại Việt Nam (thực ra là ĐHBKHN thích thế, không học tớ giam bằng). Còn trường hợp chuyển tiếp thì không nói làm gì.
 
 ## How to study???
 
