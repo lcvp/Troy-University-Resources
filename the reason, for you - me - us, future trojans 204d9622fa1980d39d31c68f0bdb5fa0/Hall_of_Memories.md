@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<sub><i>HEAR ME</i></sub>
+<sub><i>PRESS ME</i></sub>
 
 [![Tặng em đoá hoa hồng](https://img.youtube.com/vi/jq2pn8b6q-A/0.jpg)](https://youtu.be/jq2pn8b6q-A?si=HdyQOvfK1s0D9o9Y)
 
