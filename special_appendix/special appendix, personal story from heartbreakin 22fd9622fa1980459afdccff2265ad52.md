@@ -430,7 +430,7 @@ Dù sao thì, tôi cũng xong đại học và không thể nói gì nhiều cho
 
 Đó, đi từ tan vỡ và hối hận, rồi đến chữa lành như vậy đấy…
 
-Lời cuối cùng, khi tôi rời đại học, đó không phải là kết thúc, nó là mở đầu cho một hành trình dài mà tôi bỏ lỡ và có khi, tôi đã không thể bắt đầu nếu như thiếu đi sự hỗ trợ cần thiết từ các bạn. Trải nghiệm, dù khó khăn, cũng có tan vỡ, nhưng có lẽ tôi thấy được bắt đầu và hiểu ra những thứ mình cần phải làm. Tôi vẫn muốn làm, tận hưởng nhiều hơn, dù có phần mơ mộng nhưng có lẽ suy nghĩ dad khác trước nhiều. Tôi thực sự thấy biết ơn hiện tại này, dù nhiều khi nó khiến tôi đau lòng….
+Lời cuối cùng, khi tôi rời đại học, đó không phải là kết thúc, nó là mở đầu cho một hành trình dài mà tôi bỏ lỡ và có khi, tôi đã không thể bắt đầu nếu như thiếu đi sự hỗ trợ cần thiết từ các bạn. Trải nghiệm, dù khó khăn, cũng có tan vỡ, nhưng có lẽ tôi thấy được bắt đầu và hiểu ra những thứ mình cần phải làm. Tôi vẫn muốn làm, tận hưởng nhiều hơn, dù có phần mơ mộng nhưng có lẽ suy nghĩ đã khác trước nhiều. Tôi thực sự thấy biết ơn hiện tại này, dù nhiều khi nó khiến tôi đau lòng….
 
 hết rồi đó, giờ phải ôn tiếp đây :)))))
 
