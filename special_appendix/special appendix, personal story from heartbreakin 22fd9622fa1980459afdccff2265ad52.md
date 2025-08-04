@@ -1,6 +1,6 @@
 # special appendix, personal story: from heartbreaking to healing.
 
-[Cho ai không thích đọc trên GitHub](https://pinto-relish-15a.notion.site/special-appendix-personal-story-from-heartbreaking-to-healing-22fd9622fa1980459afdccff2265ad52)
+[Notion](https://pinto-relish-15a.notion.site/special-appendix-personal-story-from-heartbreaking-to-healing-22fd9622fa1980459afdccff2265ad52)
 
 Chà, cái lúc tôi viết phần nhỏ này thì cũng là lúc tôi chính thức xong hoàn toàn công việc ở lớp đại học, tức là đã thi xong hết và chỉ cần chờ làm một chút thủ tục để ra trường. Tôi ít nhiều cũng có thể tự hào là các mục tiêu ở đại học, có thể nói là hoàn thành, dù chúng không thực sự hoàn hảo. 6 năm, tính từ lúc tôi vào lớp 10, cho đến hết 2024, có lẽ là khoảng thời gian buồn và đau nhất trong cuộc đời, phần nào hằn lên tôi những suy nghĩ, lo lắng, sợ hãi và cô đơn khi phải liên tiếp đối diện với những tan vỡ trong cuộc đời của mình. Dẫu vậy, trong cái khoảng thời gian buồn ấy, tôi vẫn có chút may mắn khi được làm việc trong một tập thể mà ít nhiều cùng chia sẻ những nỗi đau và lo lắng ấy. Cái ý tưởng cá nhân này xuất phát từ việc cái repository của tôi cần một câu chuyện mang tính cá nhân, nhiều hy vọng và lý tưởng, so với cái introduction còn quá chung chung. Tại đây, tôi muốn giải thích những quyết định của tôi trong việc đối diện với những khó khăn của đại học và những gì tôi có được trong những trải nghiệm đầy khó khăn nhưng đáng nhớ ấy.
 
@@ -430,7 +430,7 @@ Dù sao thì, tôi cũng xong đại học và không thể nói gì nhiều cho
 
 Đó, đi từ tan vỡ và hối hận, rồi đến chữa lành như vậy đấy…
 
-Lời cuối cùng, khi tôi rời đại học, đó không phải là kết thúc, nó là mở đầu cho một hành trình dài mà tôi bỏ lỡ và có khi, tôi đã không thể bắt đầu nếu như thiếu đi sự hỗ trợ cần thiết từ các bạn. Trải nghiệm, dù khó khăn, cũng có tan vỡ, nhưng có lẽ tôi thấy được bắt đầu và hiểu ra những thứ mình cần phải làm. Tôi vẫn muốn làm, tận hưởng nhiều hơn, dù có phần mơ mộng nhưng có lẽ suy nghĩ dad khác trước nhiều. Tôi thực sự thấy biết ơn hiện tại này, dù nhiều khi nó khiến tôi đau lòng….
+Lời cuối cùng, khi tôi rời đại học, đó không phải là kết thúc, nó là mở đầu cho một hành trình dài mà tôi bỏ lỡ và có khi, tôi đã không thể bắt đầu nếu như thiếu đi sự hỗ trợ cần thiết từ các bạn. Trải nghiệm, dù khó khăn, cũng có tan vỡ, nhưng có lẽ tôi thấy được bắt đầu và hiểu ra những thứ mình cần phải làm. Tôi vẫn muốn làm, tận hưởng nhiều hơn, dù có phần mơ mộng nhưng có lẽ suy nghĩ đã khác trước nhiều. Tôi thực sự thấy biết ơn hiện tại này, dù nhiều khi nó khiến tôi đau lòng….
 
 hết rồi đó, giờ phải ôn tiếp đây :)))))
 
