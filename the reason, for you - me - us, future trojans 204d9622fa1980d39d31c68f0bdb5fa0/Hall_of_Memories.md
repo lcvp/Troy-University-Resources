@@ -4,7 +4,7 @@
 
 <sub><i>PRESS ME</i></sub>
 
-[![Tặng em đoá hoa hồng](https://img.youtube.com/vi/jq2pn8b6q-A/0.jpg)](https://youtu.be/jq2pn8b6q-A?si=HdyQOvfK1s0D9o9Y)
+[![My Love Mine All Mine](https://img.youtube.com/vi/CwGbMYLjIpQ/0.jpg)](https://youtu.be/CwGbMYLjIpQ?si=X_xB1PIxhclFxDkY)
 
 </div>
 
@@ -13,5 +13,14 @@ Kì hè 2025, lần này các lớp được sắp xếp phòng học ở chung 
 Khoảnh khắc ấy khiến tôi nhận ra: đôi khi, ta đang ở ngay trong một bảo tàng ký ức. Đã bao lâu rồi mình chưa đi bảo tàng nhỉ? À, từ tận ART-1133, mà hồi đó còn phải mua vé vào, giờ thì tiện thật, chẳng cần vé nữa. Chỉ cần để ý một chút, mọi thứ đã sống dậy theo cách riêng của nó.
 
 Hành lang dài và rộng, rợp nắng tháng Bảy. Không có ánh nắng nào thật sự nhẹ nhàng, chỉ có những cuộc chia tay mà tâm hồn ta đã học cách sẵn sàng. Giống như mùa hạ, nó chẳng bao giờ đến một cách vội vã. Nó cứ hé lộ từ từ - qua tia nắng, qua hơi nóng phả lên từ mặt đường, hay ánh mắt mà ta biết sẽ không còn quay lại...
+
+<p align="center">
+  <img src="image13.jpg" alt="image13.jpg" style="width:70%; height:60%;">
+</p>
+
+> Nothing in the world belongs to me  
+> But my love, mine all mine all mine
+
+<p align="center">TROY!!! ❤️</p>
 
 
