@@ -36,7 +36,7 @@
 | 4   | [HIS-1123]                                                | World History from 1500                                    | 3       |                                          |![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)  |
 | 5   | [HIS-1122]                                                | World History to 1500                                      | 3       |                                          |![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)  |
 | 6   | [MUS-1131]                                                | Music Appreciation                                         | 2       |                                          |![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)  |
-| 7   | [SPH-2241/COM-2241]                                       | Fundamentals of Speech                                     | 3       |                                          |![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)  |
+| 7   | [COM-2241]                                                | Fundamentals of Speech                                     | 3       |                                          |![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)  |
 | 8   | [ENG-1102]                                                | English Composition II                                     | 3       | ENG 1101 with C                          |![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)  |
 | 9   | [ENG-2205]                                                | World Literature I                                         | 3       | ENG 1102 with C                          |![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)  |
 | 10  | [ECO-2251]                                                | Macroeconomics                                             | 3       |                                          |![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)  |
@@ -60,7 +60,7 @@
 | 27  | [CS-4420]                                                 | Introduction to Database Systems                           | 3       | CS 3323                                  |![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)  |
 | 28  | [CS-4445]                                                 | Data Communication and Networking                          | 3       | CS 3323                                  |![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)  |
 | 29  | [CS-4448]                                                 | Operating Systems                                          | 3       | CS 3323                                  |![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)  |
-| 30  | [MTH-2210]                                                | Applied Statistics                                         | 3       | MTH 1112 with C                          |![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)  |
+| 30  | [STAT-2210]                                               | Applied Statistics                                         | 3       | MTH 1112 with C                          |![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)  |
 | 31  | [MTH-2215]                                                | Applied Discrete Mathematics                               | 3       | MTH 1112 with C                          |![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)  |
 |     | **Major Electives (Choose two of the following courses)** | **# Thực chất là không được chọn mà offer gì học cái đấy** |         |                                          |                                                                                            |
 | 32  | CS-4447                                                   | Systems Analysis and Design                                | 3       | CS 3323                                  |                |
@@ -119,9 +119,9 @@
 
 [MTH-2215]: ./MTH-2215/
 
-[MTH-2210]: ./STAT-2210/
+[STAT-2210]: ./STAT-2210/
 
-[SPH-2241/COM-2241]: ./COM-2241/
+[COM-2241]: ./COM-2241/
 
 [CHM/L-1142]: ./CHM-1142/
 
