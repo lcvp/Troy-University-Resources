@@ -36,7 +36,7 @@
 | 4   | [HIS-1123]                                                | World History from 1500                                    | 3       |                                          |![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)  |
 | 5   | [HIS-1122]                                                | World History to 1500                                      | 3       |                                          |![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)  |
 | 6   | [MUS-1131]                                                | Music Appreciation                                         | 2       |                                          |![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)  |
-| 7   | [SPH-2241/COM-2241]                                       | Fundamentals of Speech                                     | 3       |                                          |![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)  |
+| 7   | [COM-2241]                                                | Fundamentals of Speech                                     | 3       |                                          |![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)  |
 | 8   | [ENG-1102]                                                | English Composition II                                     | 3       | ENG 1101 with C                          |![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)  |
 | 9   | [ENG-2205]                                                | World Literature I                                         | 3       | ENG 1102 with C                          |![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)  |
 | 10  | [ECO-2251]                                                | Macroeconomics                                             | 3       |                                          |![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)  |
@@ -60,7 +60,7 @@
 | 27  | [CS-4420]                                                 | Introduction to Database Systems                           | 3       | CS 3323                                  |![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)  |
 | 28  | [CS-4445]                                                 | Data Communication and Networking                          | 3       | CS 3323                                  |![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)  |
 | 29  | [CS-4448]                                                 | Operating Systems                                          | 3       | CS 3323                                  |![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)  |
-| 30  | [MTH-2210]                                                | Applied Statistics                                         | 3       | MTH 1112 with C                          |![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)  |
+| 30  | [STAT-2210]                                               | Applied Statistics                                         | 3       | MTH 1112 with C                          |![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)  |
 | 31  | [MTH-2215]                                                | Applied Discrete Mathematics                               | 3       | MTH 1112 with C                          |![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50)  |
 |     | **Major Electives (Choose two of the following courses)** | **# Thực chất là không được chọn mà offer gì học cái đấy** |         |                                          |                                                                                            |
 | 32  | CS-4447                                                   | Systems Analysis and Design                                | 3       | CS 3323                                  |                |
@@ -97,81 +97,81 @@
 
 [INTRODUCTION]: ./introduction.md/
 
-[ENG-1102]: ./ENG1102/
+[ENG-1102]: ./ENG-1102/
 
-[MTH-1112]: ./MTH112/
+[MTH-1112]: ./MTH-1112/
 
-[MTH-1114]: ./MTH1114/
+[MTH-1114]: ./MTH-1114/
 
-[MTH-1125]: ./MTH1125-1126-Calculus/
+[MTH-1125]: ./MTH-1125_1126/
 
-[MTH-1126]: ./MTH1125-1126-Calculus/
+[MTH-1126]: ./MTH-1125_1126/
 
-[HIS-1122]: ./HIS122-123/
+[HIS-1122]: ./HIS-1122_1123/
 
-[CS-3365]: ./CS365/
+[CS-3365]: ./CS-3365/
 
-[CS-4445]: ./CS4445/
+[CS-4445]: ./CS-4445/
 
-[CS-4448]: ./CS4448/
+[CS-4448]: ./CS-4448/
 
-[TROY-1101]: ./TROY101/
+[TROY-1101]: ./TROY-1101/
 
-[MTH-2215]: ./MTH2215/
+[MTH-2215]: ./MTH-2215/
 
-[MTH-2210]: ./MTH210/
+[STAT-2210]: ./STAT-2210/
 
-[SPH-2241/COM-2241]: ./SPH241/
+[COM-2241]: ./COM-2241/
 
-[CHM/L-1142]: ./CHML142/
+[CHM/L-1142]: ./CHM-1142/
 
-[CS-2255]: ./CS256/
+[CS-2255]: ./CS-2255/
 
-[ART-1133]: ./ART133/
+[ART-1133]: ./ART-1133/
 
-[ENG-1101]: ./ENG1101/
+[ENG-1101]: ./ENG-1101/
 
-[MUS-1131]: ./MUS131/
+[MUS-1131]: ./MUS-1131/
 
-[ECO-2251]: ./ECO251/
+[ECO-2251]: ./ECO-2251/
 
-[CS-3310]: ./CS310/
+[CS-3310]: ./CS-3310/
 
-[CS-2250]: ./CS255/
+[CS-2250]: ./CS-2250/
 
-[CS-2220]: ./CS2220/
+[CS-2220]: ./CS-2220/
 
-[HIS-1123]: ./HIS122-123/
+[HIS-1123]: ./HIS-1122_1123/
 
-[CS-4420]: ./CS4420/
+[CS-4420]: ./CS-4420/
 
-[CS-3360]: ./CS3360/
+[CS-3360]: ./CS-3360/
 
-[PHY/L-2252]: ./PHYL252/
+[PHY/L-2252]: ./PHY-2252/
 
-[MGT-3300]: ./MGT371/
+[MGT-3300]: ./MGT-3300/
 
-[IS-2241]: ./IS241/
+[IS-2241]: ./IS-2241/
 
-[CS-3332]: ./CS3332/
+[CS-3332]: ./CS-3332/
 
-[CS-3370]: ./CS370/
+[CS-3370]: ./CS-3370/
 
-[CS-3372]: ./CS372/
+[CS-3372]: ./CS-3372/
 
-[CS-3323]: ./CS3323/
+[CS-3323]: ./CS-3323/
 
-[CS-3329]: ./CS3329/
+[CS-3329]: ./CS-3329/
 
-[CS-4451]: ./CS451/
+[CS-4451]: ./CS-4451/
 
-[CS-3331]: ./CS331/
+[CS-3331]: ./CS-3331/
 
-[ENG-2205]: ./ENG2205/
+[ENG-2205]: ./ENG-2205/
 
-[CS-4410]: ./CS4410/
+[CS-4410]: ./CS-4410/
 
-[QM-2241]: ./QM241/
+[QM-2241]: ./QM-2241/
 
 [SSH1111Q]: ./Lý%20luận%20chính%20trị/
 
