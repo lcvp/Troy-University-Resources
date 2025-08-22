@@ -85,7 +85,7 @@ Tóm lại:
 
 - Nếu không theo học tại Troy trong 2 năm liên tiếp, khi quay lại bạn phải tuân theo yêu cầu của chương trình học hiện hành tại thời điểm tái nhập học (giống như sinh viên mới). → chưa phải là đuổi, chỉ là không học thôi.
 
-Troy: chúng ta có thể dễ dàng thấy được rằng với BA thì Troy có vẻ quy định chặt chẽ hơn nhiều so với CS, có 1 sự thật là Troy là trường chuyên về Kinh tế, Giáo dục hơn là CS.
+Troy: chúng ta có thể dễ dàng thấy được rằng với BA thì Troy có vẻ quy định chặt chẽ hơn nhiều so với CS, vì có 1 sự thật là Troy là trường chuyên về Kinh tế, Giáo dục hơn là CS.
 
 BK: chính sách của BK phản ánh sự chú trọng vào khả năng hoàn thành tiến độ học tập, khả năng có thể 'theo được' hơn là kéo dài lê la, và họ cũng không muốn support những người học lâu dài cho lắm.
 
