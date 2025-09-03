@@ -82,6 +82,10 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
   
   - Truyện Nghìn lẻ một đêm nổi là do thằng Antoine Galland thêm vô mấy truyện sau này nên Tây nó mới đọc.
 
+## *Europe in the Transition from the Medieval to the Renaissance*
+
+
+
 ## *Giovanni Boccaccio (1313–1375): Decameron*
 
 - Tôi: 
