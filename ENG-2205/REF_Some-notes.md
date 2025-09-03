@@ -6,7 +6,7 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
 
 ## The Hebrew Bible (ca. 1000–300 B.C.E.)
 
-- Long: thấy được he says mỗi lần là tạo ra trời đất -> sức mạnh của ngôn từ.
+- Long: thấy được He says mỗi lần là tạo ra trời đất -> sức mạnh của ngôn từ.
 
 - Tôi: có đoạn God khuyên Cain đại loại là: Con đang giận, nếu kiềm chế được thì God sẽ accept con, đừng để cơn giận làm khổ con, con được lợi nhiều lần nếu nghe lời God -> giống Athena khuyên đừng giết Agamemnon -> cho thấy sức ảnh hưởng của thần lên con người.
 
