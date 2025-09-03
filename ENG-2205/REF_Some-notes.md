@@ -4,13 +4,13 @@ Tại sao tôi làm cái note này? Bởi vì môn này có một giảng viên 
 
 Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng lạ sẽ để riêng. Hãy dùng thanh Outline để thuận tiện theo dõi hơn. Và chia nhỏ hơn thành 2 phần: 'Long Say / I Say'.
 
-## The Hebrew Bible (ca. 1000–300 B.C.E.)
+## *The Hebrew Bible (ca. 1000–300 B.C.E.)*
 
 - Long: thấy được He says mỗi lần là tạo ra trời đất -> sức mạnh của ngôn từ.
 
 - Tôi: có đoạn God khuyên Cain đại loại là: Con đang giận, nếu kiềm chế được thì God sẽ accept con, đừng để cơn giận làm khổ con, con được lợi nhiều lần nếu nghe lời God -> giống Athena khuyên đừng giết Agamemnon -> cho thấy sức ảnh hưởng của thần lên con người.
 
-## The Birth of Philosophy
+## *The Birth of Philosophy*
 
 - Long: 
   
@@ -26,7 +26,7 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
   
   - Để giải thích về vấn đề trên thì có thể là do TQ trong thời kì đó nó loạn lạc, dân lại bị kiểm soát ác nên kể chuyện phải chơi kiểu ẩn dụ, nhờn với 'thiên tử' là chết cmn chứ đùa đâu. Còn cái context mà lão Aristotle viết mấy cái triết lý là thời 'Athenian democracy' thoải mái bỏ mẹ cứ thế lập luận, debate logic thôi việc gì sợ bị đấm!!!
 
-## Aristotle: Politics (supplemental reading)
+## *Aristotle: Politics (supplemental reading)*
 
 - Long: 
   
@@ -36,13 +36,13 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
 
 - Tôi: thực chất lão hỏi mấy câu như này bởi vì lão muốn viện dẫn là XH cổ đại thì có mấy loại không phải công dân là: Slaves, Foreigners, Women -> dần dẫn ra là gia trưởng rồi khinh bỉ phụ nữ, patriarchal các thứ.
 
-## The Christian Bible: The New Testament
+## *The Christian Bible: The New Testament*
 
 - Tôi: Jesus là một hiện thân của Thiên Chúa, hiện thân trọn vẹn của Thiên Chúa nơi trần gian. Có mấy người bắt đầu kể cuộc đời của người này - John, Luke... sau người ta công nhận đời sống đức tin của họ là gương mẫu nên phong thánh (ví dụ: Thánh Mát-thêu...), đấy thì từ đấy tòi ra cái The New Testament - Kinh Tân Ước. Kiểu giờ có tôn giáo 'Cụ Hồ'' đúng không, thì những người viết về Bác là đã chứng kiến quãng đời của Bác, được hưởng hào quang, sức mạnh của Bác thì Bác là chúa thì họ cũng phải là thánh chứ, họ có đức tin mãnh liệt thì mới viết được mấy truyện hay vậy chứ (ví dụ: thánh Hoàng Chí Bảo, thánh Vũ Kỳ...), đó kiểu kiểu vậy.
 
 - Ngoài ra thì cái The New Testament cũng là một dạng lập giao ước mới, kiểu trong Kinh Cựu Ước là Moses mang 2 bia đá chứa 10 điều răn (luật lệ đấy tuân theo thì sẽ được hưởng phúc của Chúa, đấy là giao ước) xuống núi đúng không? Xong sau lắm thằng vi phạm 10 điều răn quá nên Chúa quyết định là sẽ tạo giao ước mới, mà cái giao ước mới này sẽ khắc sâu vào lòng người thay vì là luật lệ trên đá, Jesus đã lập giao ước mới bằng máu và thân mình. Ngài chịu thay tội cho toàn bộ thế gian. Nên truyện của The New Testament cơ bản là về mấy điều giao ước mới.
 
-## Petrus Alfonsi (1062–after 1116): The Scholar’s Guide
+## *Petrus Alfonsi (1062–after 1116): The Scholar’s Guide*
 
 - Tôi:
   
@@ -50,11 +50,11 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
   
   - Bạn whole -> vào cả người giúp bạn.
 
-## Marie de France (12th century): Bisclavret, Laustic
+## *Marie de France (12th century): Bisclavret, Laustic*
 
 - Tôi: truyện người sói là nó pha tôn giáo vì trong thời kì này nó bùng nổ cái Christianity -> hậu duệ của bà vợ mang dấu hiệu phản bội -> Cain trong The Hebrew Bible.
 
-## The Qur’an (610-632)
+## *The Qur’an (610-632)*
 
 - Long: 
   
@@ -68,7 +68,7 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
   
   - Trước khi có Hồi giáo, các bộ lạc Ả Rập chia rẽ, hay xung đột. Chính sức mạnh tập thể và tinh thần ở trên đã giúp Hồi giáo lan cực nhanh -> lực lượng quân sự – chính trị hùng mạnh, dễ dàng mở rộng lãnh thổ.
 
-## The Thousand and One Nights (14th century)
+## *The Thousand and One Nights (14th century)*
 
 - Long:
   
@@ -82,7 +82,7 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
   
   - Truyện Nghìn lẻ một đêm nổi là do thằng Antoine Galland thêm vô mấy truyện sau này nên Tây nó mới đọc.
 
-## Giovanni Boccaccio (1313–1375): Decameron
+## *Giovanni Boccaccio (1313–1375): Decameron*
 
 - Tôi: 
   
