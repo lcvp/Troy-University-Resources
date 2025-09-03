@@ -1,1 +1,1 @@
-Same with [MTH-1125](../MTH-1125/guide.md)
+Same as [MTH-1125](../MTH-1125/guide.md)
