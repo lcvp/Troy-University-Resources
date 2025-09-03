@@ -34,7 +34,7 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
   
   - Cơ cấu XH, giới như nào?
 
-- Tôi: thực chất lão hỏi mấy câu như này bởi vì lão muốn viện dẫn là XH cổ đại thì có mấy loại không phải công dân là: Slaves, Foreigners, Women -> dần dẫn ra là ra trưởng rồi khinh bỉ phụ nữ, patriarchal các thứ.
+- Tôi: thực chất lão hỏi mấy câu như này bởi vì lão muốn viện dẫn là XH cổ đại thì có mấy loại không phải công dân là: Slaves, Foreigners, Women -> dần dẫn ra là gia trưởng rồi khinh bỉ phụ nữ, patriarchal các thứ.
 
 ## The Christian Bible: The New Testament
 
