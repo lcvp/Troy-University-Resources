@@ -84,7 +84,7 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
 
 ## *Europe in the Transition from the Medieval to the Renaissance*
 
-
+- Tôi: Sau khi Đế chế La Mã tan rã, tiếng Latin nó dần **phân rã thành các ngôn ngữ dân tộc** (tiếng Pháp, Ý, Tây Ban Nha, Bồ Đào Nha…); khác biệt phát âm và thiếu một trung tâm chuẩn hóa khiến không gian chữ viết ở châu Âu trở nên phân mảnh. Trái lại, ở Trung Hoa, hệ chữ logographic cho phép các cộng đồng nói khác phương ngữ vẫn dùng chung một chuẩn viết, giúp duy trì tính liên thông hành chính - văn hoá bất chấp khác biệt âm vị. Nên cái việc mà chuẩn hoá ngôn ngữ, về sau được thúc đẩy bởi **in ấn** -> văn bản được in hàng loạt, buộc phải hình thành ngôn ngữ chuẩn quốc gia và **nhà nước trung ương** -> chính quyền cần một ngôn ngữ chung để quản trị đất nước -> dần dẫn tới **nhà nước hiện đại** => **lực đẩy trong quá trình châu Âu chuyển từ trung đại sang tiền hiện đại**.
 
 ## *Giovanni Boccaccio (1313–1375): Decameron*
 
