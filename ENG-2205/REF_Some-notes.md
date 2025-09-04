@@ -2,7 +2,7 @@
 
 Tại sao tôi làm cái note này? Bởi vì môn này có một giảng viên khá quái dị. Vì vậy, tôi quan niệm rằng nếu có càng nhiều phát ngôn của 'nhà nghiên cứu' Lê Nguyên Long được ghi lại thì chúng ta sẽ phần nào hiểu rõ hơn về con người này, và cũng dễ tìm ra được 'Long mạch' hơn :)))
 
-Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng lạ sẽ để riêng. Hãy dùng thanh Outline để thuận tiện theo dõi hơn. Và chia nhỏ hơn thành 2 phần: 'Long Says / I Says'.
+Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng lạ sẽ để riêng. Hãy dùng thanh Outline để thuận tiện theo dõi hơn. Và chia nhỏ hơn thành 2 phần: 'Long Says / I Say'.
 
 ## *The Hebrew Bible (ca. 1000–300 B.C.E.)*
 
