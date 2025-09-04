@@ -16,7 +16,7 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
   
   - Philosophy là gì?
   
-  - Sao bọn bọn TQ và Hy Lạp lại hành xử khác nhau?
+  - Sao bọn TQ và Hy Lạp lại hành xử khác nhau?
   
   - Điều kiện ra đời triết học?
 
