@@ -150,9 +150,6 @@ Tuy nhiên lão thêm vào cái *References* ở cuối, và *Literature Review*
 
 Tóm lại là: lão cho một cái topic, đọc ra được gì từ topic đó thì sẽ ra được argument thôi. 
 
-Về body: đoạn đầu tiên của body phải summary đc văn bản, cuối summary phải bẻ lái được lên thẳng vào quả argument kia, đoạn tiếp theo giải quyết đc các term
+Về body: đoạn đầu tiên của body phải summary được văn bản, cuối summary phải bẻ lái được lên thẳng vào quả argument kia, đoạn tiếp theo phải giải quyết, phải prove được argument, ít nhất là 3 đoạn nhỏ nữa trong body và cái summary tổng là 4.
 
-3 cái bình diện nói đc ra
-
-Conclusion tóm tắt 7 đoạn, mỗi đoạn 200 chữ
-Có reference, intext citation cthu
+**Chú ý:** ở phần References nếu viết tham khảo thì ở trên phải dùng rồi, đừng viết linh tinh ông Long biết hết đấy và phải có in-text citation nhé.
