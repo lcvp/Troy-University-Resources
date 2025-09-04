@@ -129,3 +129,30 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
 - Mà sao lại sụp ta, thì cũng nhiều lí do, kiểu như ví dụ thời sau sau người ta làm ăn cũng ổn áp, chả cần dựa vào đất của bọn địa chủ hay hưởng lợi từ ai để sống nữa ấy. Người dân dần tìm thấy con đường sống mới dựa vào trao đổi hàng hóa, kinh tế tiền tệ, thay vì 'loyalty' hay phụ thuộc vào ân huệ -> chất lượng cuộc sống cải thiện, tinh thần cá nhân được đề cao, con người hướng tới lợi nhuận và sự thực dụng, thay vì chỉ sống để trung thành hay phục vụ tầng lớp trên.
 
 ## Cách conduct câu 2 bài Final
+
+Để dễ mường tượng thì tôi sẽ lấy một ví dụ mà cũng na ná cách viết, kiểu nó giống nhất là IELTS Writing Task 2 ấy, nhưng mà lão muốn tích hợp để trông giống một cái research, thập cẩm đủ thứ nên là cơ bản thì đương nhiên vẫn có 3 phần:
+
+- Introduction
+
+- Body
+
+- Conclusion
+
+Tuy nhiên lão thêm vào cái *References* ở cuối, và *Literature Review* ngay trong Introduction, hơi xàm.
+
+Đầu tiên là Intro, vào là dẫn vào 1 2 câu giới thiệu gì đó về tác giả, tác phẩm rồi sang Literature Review, sau đó từ mấy cái trên thì có thể phân tích ra một cái 'sự đọc' nào đó mà mình đọc ra. Cuối cùng chính là present Argument chính to nhất, mà sẽ bắt đầu bằng một câu mà Long Le cực mê đó là: 'In this essay, I argue that...', và một argument tốt theo Long Le là một argument gây tranh cãi mạnh, kiểu:
+
+<p align="center">
+  <img src="../the%20reason,%20for%20you%20-%20me%20-%20us,%20future%20trojans%20204d9622fa1980d39d31c68f0bdb5fa0/image14.png" alt="image14.png">
+  <br>
+  <em>Đừng dùng cái này không lại gặp họa :)))</em>
+</p>
+
+Tóm lại là: lão cho một cái topic, đọc ra được gì từ topic đó thì sẽ ra được argument thôi. 
+
+Về body: đoạn đầu tiên của body phải summary đc văn bản, cuối summary phải bẻ lái được lên thẳng vào quả argument kia, đoạn tiếp theo giải quyết đc các term
+
+3 cái bình diện nói đc ra
+
+Conclusion tóm tắt 7 đoạn, mỗi đoạn 200 chữ
+Có reference, intext citation cthu
