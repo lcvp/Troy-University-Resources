@@ -127,3 +127,5 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
 - Ngoài ra trong cái giai đoạn này cũng cho thấy cái sự sụp đổ của feudalism ở châu Âu, mà phải phân biệt là châu Âu mới là feudalism 'real' nhé, feudalism ở châu Á là 'fake' theo định nghĩa của feudalism.
 
 - Mà sao lại sụp ta, thì cũng nhiều lí do, kiểu như ví dụ thời sau sau người ta làm ăn cũng ổn áp, chả cần dựa vào đất của bọn địa chủ hay hưởng lợi từ ai để sống nữa ấy. Người dân dần tìm thấy con đường sống mới dựa vào trao đổi hàng hóa, kinh tế tiền tệ, thay vì 'loyalty' hay phụ thuộc vào ân huệ -> chất lượng cuộc sống cải thiện, tinh thần cá nhân được đề cao, con người hướng tới lợi nhuận và sự thực dụng, thay vì chỉ sống để trung thành hay phục vụ tầng lớp trên.
+
+## Cách conduct câu 2 bài Final
