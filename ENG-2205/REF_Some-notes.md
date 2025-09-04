@@ -108,13 +108,13 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
 
 - Long: 
   
-  - Marco Polo là tay mà quan tâm đến 'thế giới thực': đi - nhìn - ghi, như cầm cái bản đồ soi đến từng cm; còn Dante thì 'thế giới biểu tượng': tầng địa ngục/ luyện ngục/ thiên đường theo cái lăng kính thần học Ki-tô, không phải thứ mắt trần 'thấy' được. 
+  - Marco Polo là tay mà quan tâm đến 'thế giới thực': đi - nhìn - ghi, như cầm cái bản đồ soi đến từng cm; còn Dante thì 'thế giới biểu tượng': tầng địa ngục / luyện ngục / thiên đường theo cái lăng kính thần học Ki-tô, không phải thứ mắt trần 'thấy' được. 
   
   - Câu chuyện Du ký của Marco Polo thực ra được một ông chép lại dựa trên những câu chuyện mà Marco Polo kể lại trong thời gian cả hai bị giam cùng nhà tù và phóng tác nhẹ cho dễ bán sách sau khi viết ra -> dấu vết của thị trường in ấn đang bùng lên thời đó. 
   
   - Bọn châu Âu mê mẩn mấy chuyện 'phía Đông kỳ lạ' nên đọc rầm rầm. Góc nhìn Marco Polo vẫn Eurocentric rõ ràng: 'bọn khác' = man di, còn 'tao' mới là trung tâm -> vừa khám phá, vừa tò mò, vừa phán xét.
   
-  - Khi đối chiếu 'Chúa tạo muôn loài trong 7 ngày, ai cũng như nhau trước mặt Ngài' với cảm xúc sau khi đọc quả Marco Polo, cái nơi phương Đông bị mô tả như chưa 'tiến hoá đủ', một phần độc giả châu Âu bắt đầu xô lệch niềm tin: nếu thật sự có một trật tự thiêng liêng và bình đẳng như Kinh Thánh nói, thì tại sao lại tồn tại những 'thang bậc phát triển' giữa các dân/ các loài? Nghi hoặc ấy dễ trượt thành Social Darwinism nửa mùa, rồi sang racism (ta văn minh/nó man rợ), và cuối cùng hợp thức hoá chủ nghĩa thực dân dưới nhãn 'khai hoá' - thực chất là chiếm đất hút tài nguyên. Tóm lại: tò mò -> phân bậc -> nghi ngờ tính độc nhất/bao trùm của Chúa -> ý thức hệ phục vụ bành trướng.
+  - Khi đối chiếu 'Chúa tạo muôn loài trong 7 ngày, ai cũng như nhau trước mặt Ngài' trong Kinh Do Thái với cảm xúc sau khi đọc quả Marco Polo, cái nơi mà phương Đông bị mô tả như chưa 'tiến hoá đủ', một phần độc giả châu Âu bắt đầu xô lệch niềm tin: nếu thật sự có một trật tự thiêng liêng và bình đẳng như Kinh Thánh nói, thì tại sao lại tồn tại những 'thang bậc phát triển' giữa các dân / các loài? Nghi hoặc ấy trượt thành Social Darwinism nửa mùa, rồi sang racism (ta văn minh/nó man rợ), và cuối cùng hợp thức hoá chủ nghĩa thực dân dưới nhãn 'khai hoá' - thực chất là chiếm đất hút tài nguyên. Tóm lại: tò mò -> phân bậc -> nghi ngờ tính độc nhất/bao trùm của Chúa -> ý thức hệ phục vụ bành trướng.
 
 ## *Giovanni Boccaccio (1313–1375): Decameron*
 
@@ -122,8 +122,8 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
   
   - Cái truyện này nó mang tính kiểu phê phán nhà thờ các thứ, kiểu trong cái context 'gần' Phục Hưng nên nó mới vậy.
   
-  - Ví dụ đấm thẳng vào mặt quyền lực của nhà thờ mà ta có thể suy ra kiểu: 'Mấy cái phong thánh các thứ có thể sai lầm?' -> Kiểu cũng kbt bọn mình phong thánh các thứ có thật sự là 'Thánh' ??? Hay lại như lão Ciappelletto -> Thánh 'fake'.
+  - Ví dụ mà đấm thẳng vào mặt quyền lực của nhà thờ mà ta có thể suy ra kiểu: 'Mấy cái phong thánh các thứ có thể sai lầm?' -> Kiểu cũng kbt bọn mình phong thánh các thứ có thật sự là 'Thánh' ??? Hay lại như lão Ciappelletto -> Thánh 'fake'.
 
-- Ngoài ra trong cái giai đoạn này cũng cho thấy cái sự sụp đổ của feudalism ở Châu Âu, mà phải phân biệt là Châu Âu mới là feudalism 'real' nhé, feudalism ở Châu Á là fake theo định nghĩa của feudalism.
+- Ngoài ra trong cái giai đoạn này cũng cho thấy cái sự sụp đổ của feudalism ở châu Âu, mà phải phân biệt là châu Âu mới là feudalism 'real' nhé, feudalism ở châu Á là 'fake' theo định nghĩa của feudalism.
 
 - Mà sao lại sụp ta, thì cũng nhiều lí do, kiểu như ví dụ thời sau sau người ta làm ăn cũng ổn áp, chả cần dựa vào đất của bọn địa chủ hay hưởng lợi từ ai để sống nữa ấy. Người dân dần tìm thấy con đường sống mới dựa vào trao đổi hàng hóa, kinh tế tiền tệ, thay vì 'loyalty' hay phụ thuộc vào ân huệ -> chất lượng cuộc sống cải thiện, tinh thần cá nhân được đề cao, con người hướng tới lợi nhuận và sự thực dụng, thay vì chỉ sống để trung thành hay phục vụ tầng lớp trên.
