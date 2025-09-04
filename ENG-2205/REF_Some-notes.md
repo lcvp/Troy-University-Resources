@@ -1,8 +1,8 @@
 # Some notes for ENG-2205
 
-Tại sao tôi làm cái note này? Bởi vì môn này có một giảng viên khá quái dị. Vì vậy, tôi quan niệm rằng nếu có càng nhiều phát ngôn của giảng viên Lê Nguyên Long được ghi lại thì chúng ta sẽ phần nào hiểu rõ hơn về con người này, và cũng dễ tìm ra được 'long mạch' hơn :)))
+Tại sao tôi làm cái note này? Bởi vì môn này có một giảng viên khá quái dị. Vì vậy, tôi quan niệm rằng nếu có càng nhiều phát ngôn của 'nhà nghiên cứu' Lê Nguyên Long được ghi lại thì chúng ta sẽ phần nào hiểu rõ hơn về con người này, và cũng dễ tìm ra được 'Long mạch' hơn :)))
 
-Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng lạ sẽ để riêng. Hãy dùng thanh Outline để thuận tiện theo dõi hơn. Và chia nhỏ hơn thành 2 phần: 'Long Say / I Say'.
+Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng lạ sẽ để riêng. Hãy dùng thanh Outline để thuận tiện theo dõi hơn. Và chia nhỏ hơn thành 2 phần: 'Long Says / I Says'.
 
 ## *The Hebrew Bible (ca. 1000–300 B.C.E.)*
 
@@ -22,7 +22,7 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
 
 - Tôi:
   
-  - Kiểu TQ kể chuyện dài rồi chốt lại 1 cái, còn Hy Lạp thì có logic hơn. Điều này cực quan trọng vì nó shape nên cái lịch sử lâu dài Châu Âu, Châu Á.
+  - Kiểu TQ kể chuyện dài rồi chốt lại 1 cái, còn Hy Lạp thì có logic hơn. Điều này cực quan trọng vì nó shape nên cái lịch sử lâu dài châu Âu, châu Á.
   
   - Để giải thích về vấn đề trên thì có thể là do TQ trong thời kì đó nó loạn lạc, dân lại bị kiểm soát ác nên kể chuyện phải chơi kiểu ẩn dụ, nhờn với 'thiên tử' là chết cmn chứ đùa đâu. Còn cái context mà lão Aristotle viết mấy cái triết lý là thời 'Athenian democracy' thoải mái bỏ mẹ cứ thế lập luận, debate logic thôi việc gì sợ bị đấm!!!
 
