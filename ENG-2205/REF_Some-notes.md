@@ -92,10 +92,6 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
   
   - Truyện Nghìn lẻ một đêm nổi là do thằng Antoine Galland thêm vô mấy truyện sau này nên Tây nó mới đọc.
 
-## *Europe in the Transition from the Medieval to the Renaissance*
-
-- Tôi: Sau khi Đế chế La Mã tan rã, tiếng Latin nó dần **phân rã thành các ngôn ngữ dân tộc** (tiếng Pháp, Ý, Tây Ban Nha, Bồ Đào Nha…); khác biệt phát âm và thiếu một trung tâm chuẩn hóa khiến không gian chữ viết ở châu Âu trở nên phân mảnh. Trái lại, ở Trung Hoa, hệ chữ logographic cho phép các cộng đồng nói khác phương ngữ vẫn dùng chung một chuẩn viết, giúp duy trì tính liên thông hành chính - văn hoá bất chấp khác biệt âm vị. Nên cái việc mà chuẩn hoá ngôn ngữ, về sau được thúc đẩy bởi **in ấn** -> văn bản được in hàng loạt, buộc phải hình thành ngôn ngữ chuẩn quốc gia và **nhà nước trung ương** -> chính quyền cần một ngôn ngữ chung để quản trị đất nước -> dần dẫn tới **nhà nước hiện đại** => **lực đẩy trong quá trình châu Âu chuyển từ trung đại sang tiền hiện đại**.
-
 ## *Literatures of East Asia’s “Middle Periods"*
 
 - Về Trung Quốc: các truyện ở phần này cho thấy hình bóng ảo ma – ma quỷ – thần tiên khá đậm, những thứ mà quan điểm Nho giáo cổ điển vốn không khuyến khích. Thấy được là rằng xã hội lúc ấy không đặt niềm tin tuyệt đối vào Nho giáo/nhà nước, mà nghiêng về niềm tin siêu nhiên. Thậm chí Đạo giáo (Taoism) trong Alchemy, Medicine, Religion in the China of A.D. 320: The Nei P’ien of Ko Hung (Pao-p’u tzu) còn vận hành như một giáo phái mới, định nghĩa lại cả God.
@@ -103,6 +99,22 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
 - Quan điểm Nho giáo cổ điển: như Khổng Tử nói trong Luận Ngữ: 'kính quỷ thần nhi viễn chi' -> tôn kính quỷ thần nhưng giữ khoảng cách. Nho giáo có xu hướng thế tục hơn, trong khi Đạo giáo lại gần với thần tiên hơn.
 
 - Về Việt Nam: cái pattern chung của các truyện gắn liền với quan niệm Đạo giáo, Phật giáo, Nho giáo từng thời kỳ lịch sử, cơ bản là vậy. Sâu hơn thì ta thấy cũng có sự cài cắm ở truyện cuối: *Nguyễn Dữ (16th century): “The Trial at the Dragon Palace” (Long đình đối tụng lục) (supplemental reading)*. Tay này cực cao tay, kiểu chắc chắn hắn là nho sĩ - yup, Nguyễn Dữ là nho sĩ như intro á. Hắn viết chuyện toàn yếu tố thần tiên để cho thấy cái view của hắn về bọn đấy: thần tiên toàn quỷ dữ -> ta đọc thấy ngay view rất xấu, thậm chí quái vật được tôn thờ còn 'hấp diêm' các thứ. Nhưng sâu xa ta thấy được là cái gì? Là hắn cũng phản chiếu luôn cái xã hội Lê sơ suy tàn mà hắn đang ở - xã hội Nho giáo suy tàn. Một công đôi việc: một phương tiện để vừa phê phán bọn Đạo giáo vớ vẩn, lại còn đưa ra quan điểm chính trị – đạo đức của bản thân tác giả.
+
+## *Europe in the Transition from the Medieval to the Renaissance*
+
+- Tôi: Sau khi Đế chế La Mã tan rã, tiếng Latin nó dần **phân rã thành các ngôn ngữ dân tộc** (tiếng Pháp, Ý, Tây Ban Nha, Bồ Đào Nha…); khác biệt phát âm và thiếu một trung tâm chuẩn hóa khiến không gian chữ viết ở châu Âu trở nên phân mảnh. Trái lại, ở Trung Hoa, hệ chữ logographic cho phép các cộng đồng nói khác phương ngữ vẫn dùng chung một chuẩn viết, giúp duy trì tính liên thông hành chính - văn hoá bất chấp khác biệt âm vị. Nên cái việc mà chuẩn hoá ngôn ngữ, về sau được thúc đẩy bởi **in ấn** -> văn bản được in hàng loạt, buộc phải hình thành ngôn ngữ chuẩn quốc gia và **nhà nước trung ương** -> chính quyền cần một ngôn ngữ chung để quản trị đất nước -> dần dẫn tới **nhà nước hiện đại** => **lực đẩy trong quá trình châu Âu chuyển từ trung đại sang tiền hiện đại**.
+
+## *Marco Polo (1254-1324): The Diversity of the World & Dante Alighieri (1265-1321): Introduction*
+
+- Long: 
+  
+  - Marco Polo là tay mà quan tâm đến 'thế giới thực': đi - nhìn - ghi, như cầm cái bản đồ soi đến từng cm; còn Dante thì 'thế giới biểu tượng': tầng địa ngục/ luyện ngục/ thiên đường theo cái lăng kính thần học Ki-tô, không phải thứ mắt trần 'thấy' được. 
+  
+  - Câu chuyện Du ký của Marco Polo thực ra được một ông chép lại dựa trên những câu chuyện mà Marco Polo kể lại trong thời gian cả hai bị giam cùng nhà tù và phóng tác nhẹ cho dễ bán sách sau khi viết ra -> dấu vết của thị trường in ấn đang bùng lên thời đó. 
+  
+  - Bọn châu Âu mê mẩn mấy chuyện 'phía Đông kỳ lạ' nên đọc rầm rầm. Góc nhìn Marco Polo vẫn Eurocentric rõ ràng: 'bọn khác' = man di, còn 'tao' mới là trung tâm -> vừa khám phá, vừa tò mò, vừa phán xét.
+  
+  - Khi đối chiếu 'Chúa tạo muôn loài trong 7 ngày, ai cũng như nhau trước mặt Ngài' với cảm xúc sau khi đọc quả Marco Polo, cái nơi phương Đông bị mô tả như chưa 'tiến hoá đủ', một phần độc giả châu Âu bắt đầu xô lệch niềm tin: nếu thật sự có một trật tự thiêng liêng và bình đẳng như Kinh Thánh nói, thì tại sao lại tồn tại những 'thang bậc phát triển' giữa các dân/ các loài? Nghi hoặc ấy dễ trượt thành Social Darwinism nửa mùa, rồi sang racism (ta văn minh/nó man rợ), và cuối cùng hợp thức hoá chủ nghĩa thực dân dưới nhãn 'khai hoá' - thực chất là chiếm đất hút tài nguyên. Tóm lại: tò mò -> phân bậc -> nghi ngờ tính độc nhất/bao trùm của Chúa -> ý thức hệ phục vụ bành trướng.
 
 ## *Giovanni Boccaccio (1313–1375): Decameron*
 
