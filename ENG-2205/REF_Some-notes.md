@@ -36,6 +36,16 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
 
 - Tôi: thực chất lão hỏi mấy câu như này bởi vì lão muốn viện dẫn là XH cổ đại thì có mấy loại không phải công dân là: Slaves, Foreigners, Women -> dần dẫn ra là gia trưởng rồi khinh bỉ phụ nữ, patriarchal các thứ.
 
+## *Ovid (43 B.C.-A.D. 17), Metamorphoses*
+
+- Long: so sánh và phân tích những điểm tương đồng và khác biệt trong quan niệm về công trình sáng thế giữa The Hebrew Bible (khoảng 1000–300 TCN) và Ovid – Metamorphoses (43 TCN – 17 SCN)
+
+- Tôi:
+  
+  - Trong The Hebrew Bible, vũ trụ được sáng tạo bởi một Thượng Đế duy nhất – toàn năng, có chủ ý, có kế hoạch rõ ràng.
+  
+  - Trong Metamorphoses của Ovid, vũ trụ xuất hiện theo kiểu ban đầu là hỗn mang, rồi dần biến hóa, các thần linh can dự vào quá trình nhưng không có một 'đấng toàn năng' nào định sẵn toàn bộ trật tự -> tính liên tục và biến đổi của thế giới tự nhiên, hơn là sự sáng tạo một lần cho mãi mãi.
+
 ## *The Christian Bible: The New Testament*
 
 - Tôi: Jesus là một hiện thân của Thiên Chúa, hiện thân trọn vẹn của Thiên Chúa nơi trần gian. Có mấy người bắt đầu kể cuộc đời của người này - John, Luke... sau người ta công nhận đời sống đức tin của họ là gương mẫu nên phong thánh (ví dụ: Thánh Mát-thêu...), đấy thì từ đấy tòi ra cái The New Testament - Kinh Tân Ước. Kiểu giờ có tôn giáo 'Cụ Hồ'' đúng không, thì những người viết về Bác là đã chứng kiến quãng đời của Bác, được hưởng hào quang, sức mạnh của Bác thì Bác là chúa thì họ cũng phải là thánh chứ, họ có đức tin mãnh liệt thì mới viết được mấy truyện hay vậy chứ (ví dụ: thánh Hoàng Chí Bảo, thánh Vũ Kỳ...), đó kiểu kiểu vậy.
