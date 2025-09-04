@@ -38,13 +38,13 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
 
 ## *Ovid (43 B.C.-A.D. 17), Metamorphoses*
 
-- Long: so sánh và phân tích những điểm tương đồng và khác biệt trong quan niệm về công trình sáng thế giữa The Hebrew Bible (khoảng 1000–300 TCN) và Ovid – Metamorphoses (43 TCN – 17 SCN)
+- Long: so sánh và phân tích những điểm tương đồng và khác biệt trong quan niệm về công trình sáng thế giữa The Hebrew Bible (khoảng 1000–300 TCN) và Ovid – Metamorphoses (43 TCN – 17 SCN).
 
 - Tôi:
   
   - Trong The Hebrew Bible, vũ trụ được sáng tạo bởi một Thượng Đế duy nhất – toàn năng, có chủ ý, có kế hoạch rõ ràng.
   
-  - Trong Metamorphoses của Ovid, vũ trụ xuất hiện theo kiểu ban đầu là hỗn mang, rồi dần biến hóa, các thần linh can dự vào quá trình nhưng không có một 'đấng toàn năng' nào định sẵn toàn bộ trật tự -> tính liên tục và biến đổi của thế giới tự nhiên, hơn là sự sáng tạo một lần cho mãi mãi.
+  - Trong Metamorphoses của Ovid, vũ trụ xuất hiện theo kiểu ban đầu là hỗn mang, rồi dần biến hóa, các thần linh can dự vào quá trình nhưng không có một 'đấng toàn năng' nào định sẵn toàn bộ trật tự -> tính liên tục và biến đổi của thế giới tự nhiên, hơn là sự sáng tạo một lần cho mãi mãi, như cái tiêu đề truyện.
 
 ## *The Christian Bible: The New Testament*
 
@@ -68,7 +68,7 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
 
 - Long: 
   
-  - Kinh Qur'an đại diện cho một tôn giáo mới hơn nhiều, mà để nó spread nhanh, chiêu mộ được tín đồ thì phải có 1 lý do gì đó. Lý do là: Buôn bán -> lan nhanh, Kính sợ chúa -> mạnh mẽ cạnh tranh -> thống nhất bộ lạc.
+  - Kinh Qur'an đại diện cho một tôn giáo mới hơn nhiều, mà để nó spread nhanh, chiêu mộ được tín đồ thì phải có 1 lý do gì đó. Lý do là: Buôn bán -> lan nhanh, Kính sợ chúa -> thành tôn giáo có sức mạnh cạnh tranh -> thống nhất bộ lạc.
 
 - Tôi:
   
