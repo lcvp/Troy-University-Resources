@@ -82,7 +82,7 @@
 | 47  | [IS-2241]                                                 | Computer Concepts & Applications                           | 3       |                                          |![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107)  |
 | 48  | ENG-2206                                                  | World Literature II                                        | 3       | ENG 1102 with C                          |![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628)  |
 | 49  | LAW-2221                                                  | Legal Environment                                          | 3       |                                          |                |
-| 50  | MKT-3300                                                  | Principles of Marketing                                    | 3       |                                          |                |
+| 50  | [MKT-3300]                                                | Principles of Marketing                                    | 3       |                                          |                |
 | 51  | ACT-2291                                                  | Principles of Accounting I                                 | 3       |                                          |                |
 | 52  | [QM-2241]                                                 | Business Statistics and Data Analytics                     | 3       | MTH 1112 and IS 2241                     |                |
 | 53  | MTH-2201                                                  | Calculus and its Applications                              | 3       | MTH 1112 or 1114 with C                  |                |
@@ -172,6 +172,8 @@
 [CS-4410]: ./CS-4410/
 
 [QM-2241]: ./QM-2241/
+
+[MKT-3300]: ./MKT-3300/
 
 [SSH1111Q]: ./Lý%20luận%20chính%20trị/
 
