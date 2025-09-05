@@ -150,7 +150,7 @@ Tuy nhiên lão thêm vào cái *References* ở cuối, và *Literature Review*
 
 Tóm lại là: lão cho một cái topic, đọc ra được gì từ topic đó thì sẽ ra được argument thôi. 
 
-Về body: đoạn đầu tiên của body phải summary được văn bản, cuối summary phải bẻ lái được lên thẳng vào quả argument kia, đoạn tiếp theo phải giải quyết, phải prove được argument, ít nhất là 3 đoạn nhỏ nữa trong body và cái summary tổng là 4.
+Về body: đoạn đầu tiên của body phải summary được văn bản, cuối summary phải bẻ lái được lên thẳng vào quả argument kia, các đoạn tiếp theo phải giải quyết, phải prove được argument, ít nhất là 3 đoạn nhỏ nữa trong body và cái summary tổng là 4.
 
 - Mỗi cái ý mà mình phân tích để elaborate cái argument to kia thì trong đoạn đó phải tuân theo quy trình: reasoning -> evidence -> analysis of evidence, thì nó mới chặt chẽ.
 
