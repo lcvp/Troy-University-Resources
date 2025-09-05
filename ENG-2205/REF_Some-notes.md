@@ -152,4 +152,24 @@ Tóm lại là: lão cho một cái topic, đọc ra được gì từ topic đ�
 
 Về body: đoạn đầu tiên của body phải summary được văn bản, cuối summary phải bẻ lái được lên thẳng vào quả argument kia, đoạn tiếp theo phải giải quyết, phải prove được argument, ít nhất là 3 đoạn nhỏ nữa trong body và cái summary tổng là 4.
 
+- Mỗi cái ý mà mình phân tích để elaborate cái argument to kia thì trong đoạn đó phải tuân theo quy trình: reasoning -> evidence -> analysis of evidence, thì nó mới chặt chẽ.
+
 **Chú ý:** ở phần References nếu viết tham khảo thì ở trên phải dùng rồi, đừng viết linh tinh ông Long biết hết đấy và phải có in-text citation nhé.
+
+- Và nếu trích văn bản từ trong sách thì phải viết citation trích từ sách gốc kfai trích từ sách compiled của Long Le đâu.
+  
+  - Ví dụ: Marie de France. (2018). *Laüstic* (D. Gilbert, Trans.). In M. Puchner (Ed.), *The Norton anthology of world literature* (4th ed., Vol. B, pp. 305–309). W. W. Norton & Company.
+
+## Cách đọc
+
+Ông Long nói đi nói lại liên tục, đọc mỗi văn bản phải như một literary text, phải đọc được ra cái context đằng sau, chi tiết cực cụ thể, không phải kiểu mơ mộng như Văn học mà ý ông là muốn nghe được ý nghĩa 'Chính trị' đằng sau ấy.
+
+Ví dụ nhá :)))
+
+> Em thấy gì trong đôi mắt kẻ si tình?  
+> 
+> Một tấm chân tình hay một đời dang dở...
+
+Ở layer nhìn vào, chúng ta naive nghĩ là cửa sổ tâm hồn rồi tình vc right? Xa xa hơn nghĩ được là nỗi buồn các thứ.
+
+Nhưng mà thứ ông Long thực sự muốn nghe là kiểu: người dân có thể là 'kẻ si tình', nhưng nếu không tỉnh táo, tình yêu ấy sẽ biến thành sự mù quáng, dẫn đến một đời dang dở cho cả cộng đồng :))) Yes, đó thực sự là những gì tôi đã học trong course này.
