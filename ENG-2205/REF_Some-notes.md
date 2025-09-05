@@ -162,7 +162,7 @@ Về body: đoạn đầu tiên của body phải summary được văn bản, c
 
 ## Cách đọc
 
-Ông Long nói đi nói lại liên tục, đọc mỗi văn bản phải như một literary text, phải đọc được ra cái context đằng sau, chi tiết cực cụ thể, không phải kiểu mơ mộng như Văn học mà ý ông là muốn nghe được ý nghĩa 'Chính trị' đằng sau ấy.
+Ông Long nói đi nói lại liên tục, đọc mỗi văn bản phải như một literary text, phải đọc được ra cái context đằng sau, chi tiết cực cụ thể, không phải kiểu mơ mộng như 'Văn học' mà ý ông là muốn nghe được ý nghĩa 'Chính trị' đằng sau ấy.
 
 Ví dụ nhá :)))
 
