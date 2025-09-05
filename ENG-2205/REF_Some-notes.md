@@ -38,7 +38,7 @@ Tôi sẽ chia các phát biểu theo các văn bản, một vài ý tưởng l�
 
 ## *Ovid (43 B.C.-A.D. 17), Metamorphoses*
 
-- Long: so sánh và phân tích những điểm tương đồng và khác biệt trong quan niệm về công trình sáng thế giữa The Hebrew Bible (khoảng 1000–300 TCN) và Ovid – Metamorphoses (43 TCN – 17 SCN).
+- Long: so sánh và phân tích những điểm tương đồng và khác biệt trong quan niệm về công trình sáng thế giữa The Hebrew Bible (ca. 1000–300 B.C.E.) và Ovid (43 B.C.-A.D. 17), Metamorphoses.
 
 - Tôi:
   
