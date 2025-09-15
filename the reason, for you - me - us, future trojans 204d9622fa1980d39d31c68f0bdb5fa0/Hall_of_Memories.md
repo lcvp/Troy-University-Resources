@@ -28,3 +28,11 @@ Hành lang dài và rộng, rợp nắng tháng Bảy. Không có ánh nắng n�
 ## *"Dường như nắng đã làm má em thêm hồng..."*
 
 Một sớm mùa thu Hà Nội, những ánh nắng mỏng manh như tơ rắc xuống mấy con phố nhỏ làm tôi nhớ cậu, người bước vào trái tim tôi, như ánh nắng đầu tiên của buổi ban ngày, trong trẻo và ấm áp vô vàn lắm. Đi qua phố Hàng Than, hương cốm thoảng qua trong gió, quen thuộc đến mức mà tự nhủ: *"Đi học thôi mà, có cần khiến mình nhớ nhung vậy không?"*. Mùa thu nơi đây không ồn ào, chỉ lặng lẽ ôm lấy từng ánh mắt, như một bản tình ca vậy. Không biết nói thế nào để cho cậu hiểu, chỉ biết rằng những ngày trời rất đẹp, tôi luôn ước có cậu cùng đi qua. Dạo bước trên sân trường im ắng, hết kỳ rồi này… cậu đã tìm thấy mình chưa
+
+## 🩵
+
+> 'Tâm trí anh còn lại  
+> 
+> Mỗi em như đốm sáng nơi vực tối  
+> 
+> Dìu anh qua bao nhiêu bầu trời giông tố'
