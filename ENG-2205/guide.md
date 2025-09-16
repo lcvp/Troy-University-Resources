@@ -42,6 +42,8 @@ Phải luôn tỉnh táo, chú ý lời Long nói, nghe kĩ từng chi tiết ô
 
 Triển vọng cheat: có, nhưng tôi sẽ không đề cập, nếu muốn hãy liên lạc với tôi ở đâu đó.
 
+Anh Lê Quang Huy, TROYCS21A-K67 nói như này:
 
+> 'Đường thương đau đầy ải nhân gian ai chưa qua chưa phải là người !'
 
-P/S: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
+Chốt: Long và SV Troy có duyên đấy :)) NGHIỆT DUYÊN...
