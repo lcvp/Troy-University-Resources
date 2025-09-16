@@ -4,7 +4,7 @@
 
 ## *Old hat*
 
-Ở góc độ lập trình, *stale data* là dữ liệu đã cũ, không còn phản ánh trạng thái hiện tại của hệ thống, nhưng vẫn bị một đoạn code sử dụng. Tương tự như vậy, tôi nhận thấy ngành ta cũng đang trải qua một thời kỳ cũng gọi là 'Kỷ nguyên vươn mình'. Vì thế, các giáo viên, cách dạy, cách thi... thay đổi nhanh chóng và chắc chắn sẽ có những 'dữ liệu lỗi thời': nó được viết trong một context khác, khi cảm xúc và bối cảnh chưa thay đổi. Do vậy, tôi nhận thấy cũng cần phải refer tới một nơi mà dự liệu có phần update hơn.
+Ở góc độ lập trình, *stale data* là dữ liệu đã cũ, không còn phản ánh trạng thái hiện tại của hệ thống, nhưng vẫn bị một đoạn code sử dụng. Tương tự như vậy, tôi nhận thấy ngành ta cũng đang trải qua một thời kỳ cũng gọi là 'Kỷ nguyên vươn mình'. Vì thế, các giáo viên, cách dạy, cách thi... thay đổi nhanh chóng và chắc chắn sẽ có những 'dữ liệu lỗi thời': nó được viết trong một context khác, khi cảm xúc và bối cảnh chưa thay đổi. Do vậy, tôi nhận thấy cũng cần phải refer tới một nơi mà một vài dữ liệu có phần latest hơn.
 
 **PRESS ME**: [![Static Badge](https://img.shields.io/badge/'28-black?style=for-the-badge&color=%2394283a)][28]
 
