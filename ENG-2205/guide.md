@@ -50,7 +50,7 @@ Mục này là mục khó viết nhất vì ảnh hưởng thì vô vàn :)) Tâ
 
 </div>
 
-Bảng điểm cho thấy bức tranh phân hóa khá rõ (tính trên toàn khóa K68 và một vài anh chị học lại + học mới): tới 25% (khoảng 1/4 khóa) rơi vào D – tức là 'qua môn nhưng thở dốc', F thì chiếm tới 17.5%, đồng nghĩa với việc gần 1/5 sinh viên trượt môn này. Nhìn vào tỉ lệ này, có thể nói đây không phải là một môn dễ nuốt, khi lằn ranh giữa việc tạch và qua môn khá mong manh...
+Bảng điểm cho thấy bức tranh phân hóa khá rõ (tính trên toàn khóa K68 và một vài anh chị học lại + học mới): tới 25% (khoảng 1/4 khóa) rơi vào D – tức là 'qua môn nhưng đuối sức', F thì chiếm tới 17.5%, đồng nghĩa với việc gần 1/5 sinh viên trượt môn này. Nhìn vào tỉ lệ này, có thể nói đây không phải là một môn dễ nuốt, khi lằn ranh giữa việc tạch và qua môn khá mong manh...
 
 ## Tóm lược
 
