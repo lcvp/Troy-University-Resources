@@ -36,6 +36,22 @@ Mục này là mục khó viết nhất vì ảnh hưởng thì vô vàn :)) Tâ
 
 - **Điểm số**: tôi tin rằng nếu chuẩn bị bài, thuyết trình, làm việc cẩn thận thì điểm số chắc chắn sẽ là thứ đến sau cùng. Dù khả năng được A mong manh, nhưng mà chúng ta còn gì ngoài hy vọng chứ?
 
+## Nhận định tổng quan
+
+<div align="center">
+
+| Grade | Số lượng (sum=80) | Tỉ lệ |
+| :---: | :---------------: | :---: |
+|   A   |         2         | 2.5%  |
+|   B   |        14         | 17.5% |
+|   C   |        30         | 37.5% |
+|   D   |        20         | 25.0% |
+|   F   |        14         | 17.5% |
+
+</div>
+
+Bảng điểm cho thấy bức tranh phân hóa khá rõ (tính trên toàn khóa K68 và một vài anh chị học lại + học mới): tới 25% (khoảng 1/4 khóa) rơi vào D – tức là 'qua môn nhưng đuối sức', F thì chiếm tới 17.5%, đồng nghĩa với việc gần 1/5 sinh viên trượt môn này. Nhìn vào tỉ lệ này, có thể nói đây không phải là một môn dễ nuốt, khi lằn ranh giữa việc tạch và qua môn khá mong manh...
+
 ## Tóm lược
 
 Phải luôn tỉnh táo, chú ý lời Long nói, nghe kĩ từng chi tiết ông nói ra (vì ông hiếm khi chia sẻ ý niệm của ông), phối hợp chặt chẽ với các lớp ENG của ông ở VNU và lớp A/B, chuẩn bị kĩ tinh thần để chiến đấu. 
