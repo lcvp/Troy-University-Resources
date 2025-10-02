@@ -1,4 +1,4 @@
-**[UPDATE: bắt đầu từ kì Fall 2025 xuất hiện giảng viên mới (server VNU), lớp đấy hết nhanh chóng vì còn lại toàn lớp Long Le, sự kiện phải nói là chấn động chính trường]**
+**[UPDATE: bắt đầu từ kì Fall 2025 xuất hiện giảng viên mới (server VNU), lớp đấy hết nhanh chóng vì còn lại toàn lớp Long Le, sự kiện phải gọi là chấn động chính trường!!!]**
 
 Hôm nay là một ngày đẹp trời, mai là Quốc khánh, phải hơn 1 tuần sau ngày thi Final tôi mới hoàn hồn và có thể tập trung để chấp bút cho guide cho môn này, trauma nhẹ, nhưng đôi khi là nhớ nhung?
 
