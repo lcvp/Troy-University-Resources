@@ -1,3 +1,4 @@
+[UPDATE: bắt đầu từ kì Fall 2025 xuất hiện giảng viên mới (server VNU), lớp đấy hết nhanh chóng vì còn lại toàn lớp Long Le, sự kiện phải nói là chấn động chính trường]  
 Hôm nay là một ngày đẹp trời, mai là Quốc khánh, phải hơn 1 tuần sau ngày thi Final tôi mới hoàn hồn và có thể tập trung để chấp bút cho guide cho môn này, trauma nhẹ, nhưng đôi khi là nhớ nhung?
 
 OK, ta bắt đầu luôn, giảng viên của môn này và môn ENG-2206 ở toàn miền Bắc mấy năm gần đây chính là 'nhà nghiên cứu' [Lê Nguyên Long](https://fol.ussh.vnu.edu.vn/vi/news/ly-lich-khoa-hoc/ths-ncs-le-nguyen-long-141.html). Vâng, là 'nhà nghiên cứu'. Tại sao lại vậy nhỉ? Chuyện này phải nói là dai dẳng, bắt nguồn từ những kỳ trước của các anh chị khóa trên: điểm thấp, tạch, review như ... về Long Le rất nhiều. Vì vậy tôi mới đặt ra câu hỏi: 'Why is that? Why is he so bad?'.
