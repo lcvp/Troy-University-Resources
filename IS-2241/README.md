@@ -6,8 +6,6 @@ Môn này cơ bản là ngồi kể lể linh tinh về mấy thứ tin học, p
 
 ---
 
-- Đầu tiên thì về số hai, mặc dù cảnh báo trước một [hiểm họa](../CS255/guide.md) trong tương lai ở đây chưa có ý nghĩa gì mấy nhưng là **cần thiết** và **tối quan trọng**. NHỚ ĐỌC KĨ!!!
+- Đầu tiên thì về số hai, mặc dù cảnh báo trước một [hiểm họa](../CS255/README.md) trong tương lai ở đây chưa có ý nghĩa gì mấy nhưng là **cần thiết** và **tối quan trọng**. NHỚ ĐỌC KĨ!!!
 
 - Còn lại thì thầy Hải chill, không lo lắng, kê cao gối, học vui vẻ, môn thì dễ, phần nhiều là nghe kể chuyện, giống CS-3310 nhất, học vui vẻ nhé!
-
-
