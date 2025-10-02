@@ -1,3 +1,5 @@
+**[UPDATE: NỘI DUNG ĐÃ STALE]**
+
 Môn này được dạy bởi PGS. TS. [Phó Đức Tài][link], trưởng khoa Toán – Cơ – Tin học, Trường Đại học Khoa học Tự nhiên, ĐHQGHN.
 
 ---
