@@ -1,3 +1,5 @@
+**[UPDATE: NỘI DUNG ĐÃ STALE]**
+
 Xin chào, đây là môn học đầu tiên trong chương trình học CS của Troy thực sự học về lập trình (C++). Môn này có 2 giảng viên dạy:
 
 1. Cô [Bùi Thị Mai Anh](https://soict.hust.edu.vn/ts-bui-thi-mai-anh.html) 
