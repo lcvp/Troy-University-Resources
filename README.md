@@ -40,7 +40,7 @@
 | 8   | [ENG-1102]                                                | Composition and Modern English II                          | 3       | ENG 1101 with C                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
 | 9   | [ENG-2205]                                                | World Literature before 1660                               | 3       | ENG 1102 with C                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
 | 10  | [ECO-2251]                                                | Macroeconomics                                             | 3       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
-| 11  | ECO-2252                                                  | Microeconomics                                             | 3       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
+| 11  | [ECO-2252]                                                | Microeconomics                                             | 3       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
 | 12  | [CHM/L-1142]                                              | General Chemistry and Lab I                                | 4       | MTH 1112                                 | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
 | 13  | [PHY/L-2252]                                              | General Physics and Lab I                                  | 4       | MTH 1114                                 | ![Static Badge](https://img.shields.io/badge/PEAK-black?style=flat-square&color=%234CAF50) |
 |     | **Required Major Courses**                                |                                                            |         |                                          |                                                                                            |
@@ -81,13 +81,13 @@
 | 46  | [MGT-3300]                                                | Principles of Management                                   | 3       |                                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
 | 47  | [IS-2241]                                                 | Computer Concepts & Applications                           | 3       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
 | 48  | [ENG-2206]                                                | World Literature after 1660                                | 3       | ENG 1102 with C                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
-| 49  | LAW-2221                                                  | Legal Environment                                          | 3       |                                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
+| 49  | [LAW-2221]                                                | Legal Environment                                          | 3       |                                          | ![Static Badge](https://img.shields.io/badge/SUCK-black?style=flat-square&color=%23ce1628) |
 | 50  | [MKT-3300]                                                | Principles of Marketing                                    | 3       |                                          | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
 | 51  | ACT-2291                                                  | Principles of Accounting I                                 | 3       |                                          |                                                                                            |
 | 52  | [QM-2241]                                                 | Business Statistics and Data Analytics                     | 3       | MTH 1112 and IS 2241                     |                                                                                            |
 | 53  | MTH-2201                                                  | Calculus and its Applications                              | 3       | MTH 1112 or 1114 with C                  |                                                                                            |
 | 54  | SCI/L-2233                                                | Physical Science and Lab                                   | 4       |                                          |                                                                                            |
-| 55  | BIO/L-1100                                                | Principles of Biology & Lab                                | 4       |                                          |                                                                                            |
+| 55  | [BIO/L-1100]                                              | Principles of Biology & Lab                                | 4       |                                          |                                                                                            |
 |     | **5 môn Triết**                                           |                                                            |         | **Thứ tự học**                           |                                                                                            |
 | 56  | [SSH1111Q]                                                | Triết học Mác - Lênin                                      | 3       | 1                                        | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
 | 57  | [SSH1121Q]                                                | Kinh tế chính trị Mác - Lênin                              | 2       | 2                                        | ![Static Badge](https://img.shields.io/badge/FAIR-black?style=flat-square&color=%23FFC107) |
@@ -176,6 +176,12 @@
 [MKT-3300]: ./MKT-3300/
 
 [ENG-2206]: ./ENG-2206/
+
+[ECO-2252]: ./ECO-2252/
+
+[LAW-2221]: ./LAW-2221/
+
+[BIO/L-1100]: ./BIO-1100/
 
 [SSH1111Q]: ./Lý%20luận%20chính%20trị/
 
