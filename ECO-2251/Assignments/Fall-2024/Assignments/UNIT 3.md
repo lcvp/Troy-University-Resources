@@ -19,7 +19,7 @@ d. Calculate the saving function for TopOne. Plot this saving function on a grap
 
 **Problem 3:**
 
-![Graph of Planned Aggregate Expenditure vs Aggregate Output](./Assignments/images/UNIT3-Problem3-Graph.png)
+![Graph of Planned Aggregate Expenditure vs Aggregate Output](./images/UNIT3-Problem3-Graph.png)
 
 Use the graph to answer the questions that follow.  
 a. What is the value of the MPC?  
