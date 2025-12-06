@@ -1,4 +1,4 @@
-name: Dynamic Label + Folder Validation
+name: Dynamic Folder-Based Labeling
 
 on:
     pull_request:
@@ -13,100 +13,70 @@ jobs:
             contents: read
 
         steps:
-            # Checkout the repository
+            # Checkout repository
             - name: Checkout repo
               uses: actions/checkout@v4
 
-            # Extract label and uppercase it
-            - name: Extract label from PR title
-              id: extract
-              run: |
-                  title="${{ github.event.pull_request.title }}"
-                  echo "PR Title: $title"
-
-                  # Match everything inside the first [...]
-                  if [[ "$title" =~ \[(.*?)\] ]]; then
-                    raw="${BASH_REMATCH[1]}"
-                    upper=$(echo "$raw" | tr '[:lower:]' '[:upper:]')
-                    echo "Extracted uppercase label: $upper"
-                    echo "label=$upper" >> $GITHUB_OUTPUT
-                  else
-                    echo "No label found"
-                    echo "label=" >> $GITHUB_OUTPUT
-                  fi
-
-            # Exit if no label found
-            - name: Exit if no label found
-              if: steps.extract.outputs.label == ''
-              run: |
-                  echo "No label found in title. Skipping."
-
-            # Install gh
-            - name: Install GitHub CLI (gh)
-              if: steps.extract.outputs.label != ''
+            # Install GitHub CLI
+            - name: Install GitHub CLI
               run: |
                   sudo apt-get update
-                  sudo apt-get install -y gh
+                  sudo apt-get install -y gh openssl
 
-            # Validate file paths match label folder
-            - name: Validate file paths are inside label folder
-              if: steps.extract.outputs.label != ''
-              env:
-                  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            # Collect folder labels from changed files
+            - name: Collect folder labels from changed files
+              id: folders
               run: |
-                  LABEL="${{ steps.extract.outputs.label }}"
-                  echo "Validating files under folder: $LABEL"
+                  echo "Collecting folders from changed files..."
 
-                  # Get changed files using gh (one path per line)
-                  FILES=$(gh pr view ${{ github.event.pull_request.number }} --json files -q '.files[].path')
+                  # Get changed file list compared to target branch
+                  git fetch origin ${{ github.base_ref }} --depth=1 >/dev/null 2>&1
+                  FILES=$(git diff --name-only origin/${{ github.base_ref }})
+
                   echo "Changed files:"
                   echo "$FILES"
 
-                  invalid=0
+                  # Extract UNIQUE top-level folders
+                  FOLDERS=$(echo "$FILES" | awk -F'/' '{print $1}' | sort -u)
 
-                  # iterate safely line-by-line
-                  while IFS= read -r file; do
-                    # skip empty lines
-                    [ -z "$file" ] && continue
-                    if [[ $file != "$LABEL/"* ]]; then
-                      echo "❌ ERROR: File '$file' is NOT inside required folder '$LABEL/'"
-                      invalid=1
-                    else
-                      echo "✅ OK: $file"
-                    fi
-                  done <<< "$FILES"
+                  echo "Detected folders:"
+                  echo "$FOLDERS"
 
-                  if [[ $invalid -eq 1 ]]; then
-                    echo "❌ Some files are outside the required folder. Failing the workflow."
-                    exit 1
-                  else
-                    echo "✅ All files are in the correct folder."
-                  fi
+                  # Convert to comma-separated list
+                  LABELS=$(echo "$FOLDERS" | tr '\n' ',' | sed 's/,$//')
 
-            # Create label if missing
-            - name: Create label if missing
-              if: steps.extract.outputs.label != ''
+                  echo "labels=$LABELS" >> $GITHUB_OUTPUT
+
+            # Create labels (if missing) using valid 6-digit colors
+            - name: Create labels if missing
               env:
                   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               run: |
-                  LABEL="${{ steps.extract.outputs.label }}"
+                  IFS=',' read -ra labels <<< "${{ steps.folders.outputs.labels }}"
 
-                  # Generate a random hex color
-                  COLOR=$(printf "%06x" $(( RANDOM * RANDOM )) )
+                  for label in "${labels[@]}"; do
+                    [[ -z "$label" ]] && continue
 
-                  echo "Creating label (if missing): $LABEL with color #$COLOR"
+                    # Create a valid 6-digit hex color
+                    COLOR=$(openssl rand -hex 3)
 
-                  gh label create "$LABEL" \
-                  --color "$COLOR" \
-                  --description "Auto-created from PR title" \
-                  || echo "Label already exists. Continuing."
+                    echo "Creating label: $label (color #$COLOR)"
+                    gh label create "$label" --color "$COLOR" \
+                        --description "Auto-created folder label" \
+                        || echo "Label already exists ✓"
+                  done
 
-            # Add label to PR (uses GH_TOKEN)
-            - name: Add label to PR
-              if: steps.extract.outputs.label != ''
+            # Add labels to the pull request
+            - name: Apply labels to PR
               env:
                   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               run: |
-                  LABEL="${{ steps.extract.outputs.label }}"
-                  echo "Adding label $LABEL to PR #${{ github.event.pull_request.number }}"
-                  gh pr edit ${{ github.event.pull_request.number }} --add-label "$LABEL"
+                  echo "Applying labels to PR..."
+
+                  IFS=',' read -ra labels <<< "${{ steps.folders.outputs.labels }}"
+
+                  for label in "${labels[@]}"; do
+                    [[ -z "$label" ]] && continue
+                    echo "Adding: $label"
+                    gh pr edit ${{ github.event.pull_request.number }} --add-label "$label"
+                  done
