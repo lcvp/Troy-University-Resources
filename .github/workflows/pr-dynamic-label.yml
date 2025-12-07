@@ -1,0 +1,82 @@
+name: Dynamic Folder-Based Labeling
+
+on:
+    pull_request:
+        types: [opened, edited, reopened, synchronize]
+
+jobs:
+    label:
+        runs-on: ubuntu-latest
+        permissions:
+            issues: write
+            pull-requests: write
+            contents: read
+
+        steps:
+            # Checkout repository
+            - name: Checkout repo
+              uses: actions/checkout@v4
+
+            # Install GitHub CLI
+            - name: Install GitHub CLI
+              run: |
+                  sudo apt-get update
+                  sudo apt-get install -y gh openssl
+
+            # Collect folder labels from changed files
+            - name: Collect folder labels from changed files
+              id: folders
+              run: |
+                  echo "Collecting folders from changed files..."
+
+                  # Get changed file list compared to target branch
+                  git fetch origin ${{ github.base_ref }} --depth=1 >/dev/null 2>&1
+                  FILES=$(git diff --name-only origin/${{ github.base_ref }})
+
+                  echo "Changed files:"
+                  echo "$FILES"
+
+                  # Extract UNIQUE top-level folders
+                  FOLDERS=$(echo "$FILES" | awk -F'/' '{print $1}' | sort -u)
+
+                  echo "Detected folders:"
+                  echo "$FOLDERS"
+
+                  # Convert to comma-separated list
+                  LABELS=$(echo "$FOLDERS" | tr '\n' ',' | sed 's/,$//')
+
+                  echo "labels=$LABELS" >> $GITHUB_OUTPUT
+
+            # Create labels (if missing) using valid 6-digit colors
+            - name: Create labels if missing
+              env:
+                  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: |
+                  IFS=',' read -ra labels <<< "${{ steps.folders.outputs.labels }}"
+
+                  for label in "${labels[@]}"; do
+                    [[ -z "$label" ]] && continue
+
+                    # Create a valid 6-digit hex color
+                    COLOR=$(openssl rand -hex 3)
+
+                    echo "Creating label: $label (color #$COLOR)"
+                    gh label create "$label" --color "$COLOR" \
+                        --description "Auto-created folder label" \
+                        || echo "Label already exists ✓"
+                  done
+
+            # Add labels to the pull request
+            - name: Apply labels to PR
+              env:
+                  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: |
+                  echo "Applying labels to PR..."
+
+                  IFS=',' read -ra labels <<< "${{ steps.folders.outputs.labels }}"
+
+                  for label in "${labels[@]}"; do
+                    [[ -z "$label" ]] && continue
+                    echo "Adding: $label"
+                    gh pr edit ${{ github.event.pull_request.number }} --add-label "$label"
+                  done
