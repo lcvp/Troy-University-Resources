@@ -3,14 +3,8 @@
 **Hanoi University of Science and Technology**  
 **TROY PROGRAM**  
 
+**Lecturer: Dr. Nguyễn Thanh Hương**
 </div>
-
-| | | |
-| :--- | :--- | :--- |
-| **Exam: Final** | **Type: Mix** | **Duration: 60 min** |
-| **Course ID: MGT3710** | **Course name: Principle of Management** | **No: 02** |
-| **Class ID:** | **Semester: Spring** | **School year: 2024- 2025** |
-
 
 **Student name:** ........................................................ **Student ID:** ........................ **Signature:** ........................................
 
@@ -23,7 +17,7 @@ Note: Students do not allow to use the material, books, mobile phone, computer
 
 **I. Please circle on the True or Fault for the following questions: (20 points)**
 
-| | | | |
+| No. | Statement | | |
 | :--- | :--- | :---: | :---: |
 | 1. | Job rotation allows employees to work in different roles or departments without changing their job level. | T | F |
 | 2. | Tactical plans focus on the establishment of general goals and the position of the company within its environment | T | F |
