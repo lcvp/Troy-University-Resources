@@ -42,13 +42,13 @@ Department of Management Science and Law, School of Economics and Management, HU
 
 **Grading system**
 
-| | |
+| Grade | Score Range |
 | :--- | :--- |
-| Grade A | 90-100 |
-| Grade B | 80-89 |
-| Grade C | 70-79 |
-| Grade D | 60-69 |
-| Grade F. | under 60 |
+| A | 90-100 |
+| B | 80-89 |
+| C | 70-79 |
+| D | 60-69 |
+| F | under 60 |
 
 
 **_Important Note:_** _serious penalty (e.g: one lower letter grade) will be given for cheating and plagiarism and students will be required to retake a course if they get D or worse for that course._
