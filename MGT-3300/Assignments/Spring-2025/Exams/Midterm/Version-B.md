@@ -15,7 +15,7 @@ According to Henry Mintzberg, what are the roles of a manager? List them and off
 **Question 2: (5 points)**  
 **_2.1. Circle the correct answer (T) or (F) for true or false and choose the most appropriate option for the following questions (with a brief explanation):_**
 
-| | | | |
+| No. | Statement | | |
 | :--- | :--- | :---: | :---: |
 | 1. | The Figurehead role involves performing ceremonial duties, which can include attending weddings or giving awards. | T | F |
 | 2. | One of the objective factors that diminishes the role of management is the increasing uncertainty and risk factors. | T | F |
