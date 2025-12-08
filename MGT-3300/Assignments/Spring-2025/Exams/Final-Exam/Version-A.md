@@ -3,14 +3,8 @@
 **Hanoi University of Science and Technology**  
 **TROY PROGRAM**  
 
+**Lecturer: Dr. Nguyễn Thanh Hương**
 </div>
-
-| | | |
-| :--- | :--- | :--- |
-| **Exam: Final** | **Type: Mix** | **Duration: 60 min** |
-| **Course ID: MGT3710** | **Course name: Principle of Management** | **No: 01** |
-| **Class ID:** | **Semester: Spring** | **School year: 2024- 2025** |
-
 
 **Student name:** ........................................................ **Student ID:** ........................ **Signature:** ........................................
 
@@ -23,7 +17,7 @@ Note: Students do not allow to use the material, books, mobile phone, computer
 
 **I. Please circle on the True or Fault for the following questions: (20 points)**
 
-| | | | |
+| No. | Statement | | |
 | :--- | :--- | :---: | :---: |
 | 1. | Good and creative management can help compensate for limited natural resources. | T | F |
 | 2. | The amount of time spent on the leading function increases as one moves from first line managers to top managers. | T | F |
