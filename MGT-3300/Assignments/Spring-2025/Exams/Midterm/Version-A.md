@@ -4,7 +4,7 @@
 **Question 2: (5 points)**  
 **_2.1. Circle the correct answer (T) or (F) for true or false and choose the most appropriate option for the following questions (with a brief explanation):_**
 
-| | | | |
+| No. | Statement |||
 | :--- | :--- | :---: | :---: |
 | 1. | As long as organizations exist, management is still needed for effective operation. | T | F |
 | 2. | Disturbance Handler is a role where managers mediate, solve issues, and adapt to new circumstances when unexpected difficulties arise. | T | F |
